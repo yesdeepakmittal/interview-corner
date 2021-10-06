@@ -21,7 +21,7 @@ public class Main {
 
       dir = (dir + arr[i][j]) % 4;
 
-      if (dir == 0) {
+      if (dir == 0) { // east
         j++;
         if (j == m) {
           j--;
@@ -29,21 +29,21 @@ public class Main {
         }
 
       }
-      else if (dir == 1) {
+      else if (dir == 1) { // south
         i++;
         if (i == n) {
           i--;
           break;
         }
       }
-      else if (dir == 2) {
+      else if (dir == 2) { // west
         j--;
         if (j == -1) {
           j++;
           break;
         }
       }
-      else {
+      else { // north
         i--;
         if (i == -1) {
           i++;
