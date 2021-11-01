@@ -6,7 +6,7 @@ class Solution {
         sentence = sentence.toLowerCase();
         
         for(int i = 0; i< sentence.length(); i++){
-            alpha = sentence.charAt(i) - 'a';
+            alpha = sentence.charAt(i) - 'a'; // 'b' - 'a' = 1(index of b)
             arr[alpha] = true; //index of each alphabet from 0(for a) to 25(for z)
         }
         
