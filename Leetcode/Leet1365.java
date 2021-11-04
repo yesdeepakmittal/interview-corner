@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int[] arr = new int[nums.length];
