@@ -17,5 +17,6 @@
 16. [Find Numbers with Even Number of Digits](../Leetcode/Leet1295.py)
 17. [Transpose Matrix](../Leetcode/Leet0867.py)
 18. [Add to Array-Form of Integer](../Leetcode/Leet0989.py)
-19. Maximum Population Year
-20. 
+19. [Maximum Population Year](../Leetcode/Leet1854.py)
+20. [Determine Whether Matrix Can Be Obtained By Rotation](../Leetcode/Leet1886.py)
+21. [Two Sum](../Leetcode/Leet0001.py)
