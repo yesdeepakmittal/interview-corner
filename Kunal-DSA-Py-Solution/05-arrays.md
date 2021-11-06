@@ -1,5 +1,5 @@
 ### Easy
-1. Build Array from Permutation
+1. [Build Array from Permutation](../Leetcode/Leet1920.py)
 2. [Concatenation of Array](../Leetcode/Leet1929.py)
 3. [Running Sum of 1d Array](../Leetcode/Leet1480.py)
 4. [Richest Customer Wealth](../Leetcode/Leet1672.py)
@@ -32,7 +32,7 @@
 3. Product of Array Except Self
 4. [Find First and Last Position of Element in Sorted Array](../Leetcode/Leet0034.py)
 5. Jump Game
-6. Rotate Array
+6. [Rotate Array](../Leetcode/Leet0189.py)
 
 ### Hard
 1. Max Value of Equation
