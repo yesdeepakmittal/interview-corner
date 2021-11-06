@@ -20,3 +20,20 @@
 19. [Maximum Population Year](../Leetcode/Leet1854.py)
 20. [Determine Whether Matrix Can Be Obtained By Rotation](../Leetcode/Leet1886.py)
 21. [Two Sum](../Leetcode/Leet0001.py)
+22. [Find N Unique Integers Sum up to Zero](../Leetcode/Leet1304.py)
+23. [Lucky Number In a Matrix](../Leetcode/Leet1380.py)
+24. Maximum Subarray
+25. [Reshape the Matrix](../Leetcode/Leet0566.py)
+
+### Medium
+1. Spiral Matrix
+2. [Set Matrix Zeroes](../Leetcode/Leet0073.py)
+3. Product of Array Except Self
+4. [Find First and Last Position of Element in Sorted Array](../Leetcode/Leet0034.py)
+5. Jump Game
+6. Rotate Array
+
+### Hard
+1. Max Value of Equation
+2. First Missing Positive
+3. Good Array
