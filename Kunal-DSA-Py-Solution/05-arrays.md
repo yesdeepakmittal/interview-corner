@@ -24,6 +24,7 @@
 23. [Lucky Number In a Matrix](../Leetcode/Leet1380.py)
 24. Maximum Subarray
 25. [Reshape the Matrix](../Leetcode/Leet0566.py)
+26. [Plus One](../Leetcode/Leet0066.py)
 
 ### Medium
 1. Spiral Matrix
