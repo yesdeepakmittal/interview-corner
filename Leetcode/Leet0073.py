@@ -1,3 +1,5 @@
+https://leetcode.com/problems/set-matrix-zeroes/
+
 matrix = [[1,1,0],[1,1,1],[1,1,1]]
 idx = []
 for row in range(len(matrix)):
