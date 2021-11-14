@@ -29,6 +29,7 @@
 |[0137. Single number 2](https://leetcode.com/problems/single-number-ii/)|[Python](./Leetcode/Leet0137.py)||
 |[0153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](./Leetcode/Leet0153.py)||
 |[0154. Find Minimum in Rotated Sorted Array 2](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Python](./Leetcode/Leet0154.py)||
+|[0744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python](./Leetcode/Leet0744.py)|[Java](./Leetcode/Leet0744.java)|
 
 
 
