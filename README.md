@@ -5,14 +5,14 @@
 
 
 #### Leetcode
-|Title                        | Python | Java|
-|-----------------------------|------------|-------|
+|Title                        | Python      | Java  |
+|-----------------------------|-------------|-------|
 |[0001. Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./Leetcode/Leet0001.py)||
 |[0004. Median of two sorted array](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Python](./Leetcode/Leet0004.py)||
 |[0026. Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Python](./Leetcode/Leet0026.py)||
 |[0027. Remove element](https://leetcode.com/problems/remove-element/)|[Python](./Leetcode/Leet0027.py)||
 |[0033. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Python](./Leetcode/Leet0033.py)||
-|[0034. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](./Leetcode/Leet0034.py)||
+|[0034. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Python](./Leetcode/Leet0034.py)|[Java](./Leetcode/Leet0034.java)|
 |[0035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](./Leetcode/Leet0035.py)||
 |[0046. Permutations](https://leetcode.com/problems/permutations/)|[Python](./Leetcode/Leet0046.py)||
 |[0047. Permutations 2](https://leetcode.com/problems/permutations-ii/)|[Python](./Leetcode/Leet0047.py)||
@@ -60,7 +60,7 @@
 |[1886. ]()|[Python](./Leetcode/Leet1886.py)||
 |[1920. ]()|[Python](./Leetcode/Leet1920.py)|[Java](./Leetcode/Leet1929.py)|
 |[1929. ]()|[Python](./Leetcode/Leet1929.py)|[Java](./Leetcode/Leet1929.py)|
-|[0744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python](./Leetcode/Leet0744.py)|[Java](./Leetcode/Leet0744.java)|
+
 
 
 

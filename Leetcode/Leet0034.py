@@ -1,4 +1,4 @@
-https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+# https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
     
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
@@ -9,3 +9,6 @@ class Solution:
         if len(l) == 1: return l*2
         elif len(l) > 1: return [l[0],l[-1]]
         else: return [-1,-1]
+
+#this is not a binary search(O(logn)) approach as in Java solution
+#binary search implementation is remaining in this solution 
