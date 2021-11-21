@@ -24,11 +24,42 @@
 |[0078. Subsets](https://leetcode.com/problems/subsets/)|[Python](./Leetcode/Leet0078.py)||
 |[0080. Remove Duplicates from Sorted Array 2](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](./Leetcode/Leet0080.py)||
 |[0081. Search in Rotated Sorted Array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](./Leetcode/Leet0081.py)||
-|[0088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](./Leetcode/Leet0088.py)||
+|[0088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](./Leetcode/Leet0088.py)|[Java](./Leetcode/Leet0088.java)|
 |[0136. Single Number](https://leetcode.com/problems/single-number/)|[Python](./Leetcode/Leet0136.py)||
 |[0137. Single number 2](https://leetcode.com/problems/single-number-ii/)|[Python](./Leetcode/Leet0137.py)||
 |[0153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](./Leetcode/Leet0153.py)||
 |[0154. Find Minimum in Rotated Sorted Array 2](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Python](./Leetcode/Leet0154.py)||
+|[0162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Python](./Leetcode/Leet0162.py)||
+|[0164. Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Python](./Leetcode/Leet0164.py)||
+|[0167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](./Leetcode/Leet0167.py)||
+|[0169. Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./Leetcode/Leet0169.py)||
+|[0189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Leetcode/Leet0189.py)||
+|[0217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Leetcode/Leet0217.py)||
+|[0344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Leetcode/Leet0344.py)||
+|[0566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](./Leetcode/Leet0566.py)||
+|[0744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python](./Leetcode/Leet0744.py)|[Java](./Leetcode/Leet0744.java)|
+|[0832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Leetcode/Leet0832.py)|[Java](./Leetcode/Leet0832.java)|
+|[0867. ]()|[Python](./Leetcode/Leet0867.py)|[Java](./Leetcode/Leet0867.java)|
+|[0989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python](./Leetcode/Leet0989.py)||
+|[1252. Cells with Odd Values in a Matrix]()|[Python](./Leetcode/Leet1252.py)||
+|[1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)||[Java](./Leetcode/Leet0154.java)|
+|[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Python](./Leetcode/Leet1295.py)|[Java](./Leetcode/Leet1295.java)|
+|[1304. Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Python](./Leetcode/Leet1304.py)||
+|[1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[Python](./Leetcode/Leet1365.py)|[Java](./Leetcode/Leet1365.java)|
+|[1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Python](./Leetcode/Leet1389.py)|[Java](./Leetcode/Leet1389.java)|
+|[1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Python](./Leetcode/Leet1431.py)|[Java](./Leetcode/Leet1431.java)|
+|[1470. ]()|[Python](./Leetcode/Leet1470.py)|[Java](./Leetcode/Leet1470.java)|
+|[1480. ]()|[Python](./Leetcode/Leet1480.py)|[Java](./Leetcode/Leet1480.java)|
+|[1512. ]()|[Python](./Leetcode/Leet1512.py)|[Java](./Leetcode/Leet1512.java)|
+|[1572. ]()|[Python](./Leetcode/Leet1572.py)||
+|[1672. ]()|[Python](./Leetcode/Leet1672.py)|[Java](./Leetcode/Leet1672.java)|
+|[1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Python](./Leetcode/Leet1732.py)|[Java](./Leetcode/Leet1732.java)|
+|[1773. ]()|[Python](./Leetcode/Leet1773.py)|[Java](./Leetcode/Leet1773.java)|
+|[1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[Python](./Leetcode/Leet1832.py)|[Java](./Leetcode/Leet1832.java)|
+|[1854. ]()|[Python](./Leetcode/Leet1854.py)|[Java](./Leetcode/Leet1854.java)|
+|[1886. ]()|[Python](./Leetcode/Leet1886.py)||
+|[1920. ]()|[Python](./Leetcode/Leet1920.py)|[Java](./Leetcode/Leet1929.py)|
+|[1929. ]()|[Python](./Leetcode/Leet1929.py)|[Java](./Leetcode/Leet1929.py)|
 |[0744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python](./Leetcode/Leet0744.py)|[Java](./Leetcode/Leet0744.java)|
 
 
