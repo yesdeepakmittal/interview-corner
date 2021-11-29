@@ -5,7 +5,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        for i in range(k):
+        for i in range(k%len(nums)):
             nums.insert(0,nums[-1])
             del nums[-1]
         return nums
