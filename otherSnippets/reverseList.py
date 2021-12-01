@@ -18,7 +18,7 @@ def method2(arr):
     '''
     This method performs in-place operation
     It will cause permanent change to input array
-    Also work for Tuple and when we need to reverse a part of an Array(just add start & end value)
+    Also work when we need to reverse a part of an Array(just add start & end value)
     '''
     start = 0
     end = len(arr) - 1
