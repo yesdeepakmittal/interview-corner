@@ -2,6 +2,7 @@
 ⏬click here to move to coding section
 - [Leetcode](https://github.com/yesdeepakmittal/competitive-coding#leetcode)
 - [Pepcoding](https://github.com/yesdeepakmittal/competitive-coding#pepcoding)
+- [Other Code Snippets](https://github.com/yesdeepakmittal/competitive-coding#other-code-snippets)
 
 
 #### Leetcode
