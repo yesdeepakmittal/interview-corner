@@ -66,3 +66,14 @@ print(method4(arr))
 arr = [1,2,3,4,5,6,7,8]
 print("Result of method5: ",end="")
 print(method5(arr))
+
+
+'''
+Output
+
+Result of method1: [8, 7, 6, 5, 4, 3, 2, 1]
+Result of method2: [8, 7, 6, 5, 4, 3, 2, 1]
+Result of method3: [8, 7, 6, 5, 4, 3, 2, 1]
+Result of method4: [8, 7, 6, 5, 4, 3, 2, 1]
+Result of method5: [8, 7, 6, 5, 4, 3, 2, 1]
+'''
