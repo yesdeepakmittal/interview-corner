@@ -2,7 +2,7 @@
 input arr = [1,2,3,4,5,6,7,8]
 output arr = [8,7,6,5,4,3,2,1]
 Method 1 = TC - O(N) | SC - O(N)
-method 2 = TC - O(N) | SC - (?)
+method 2 = TC - O(N) | SC - (1) - No extra space used
 method 3 = TC - O(N) | SC - (?)
 method 4 = TC - O(N) | SC - (?)
 method 5 = TC - O(N) | SC - (?)
@@ -18,6 +18,7 @@ def method2(arr):
     '''
     This method performs in-place operation
     It will cause permanent change to input array
+    Also work for Tuple and when we need to reverse a part of an Array(just add start & end value)
     '''
     start = 0
     end = len(arr) - 1
