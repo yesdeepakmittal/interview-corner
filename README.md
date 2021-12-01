@@ -78,7 +78,13 @@
 
 
 #### Other Code Snippets
+|         Problems                 | Python|  Java |
+|----------------------------------|-------|-------|
+|Reverse a list                    |[Python](./otherSnippets/reverseList.py)||
 
 Work in progress 🤓
 
+😊Please add code files to this repository and open a pull-request. 
+
+🌟Hit the star button if this repository benefits you
 
