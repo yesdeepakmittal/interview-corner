@@ -81,6 +81,8 @@
 |         Problems                 | Python|  Java |
 |----------------------------------|-------|-------|
 |Reverse a list                    |[Python](./otherSnippets/reverseList.py)||
+|Elements Greater than Itself      |[Python](./otherSnippets/ElementsGreaterThanItself.py)|[Java](./otherSnippets/ElementsGreaterThanItself.java)|
+|Rotate Array                      |[Python](./otherSnippets/RotateArray.py)||
 
 Work in progress 🤓
 
