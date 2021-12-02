@@ -38,6 +38,7 @@
 |[0217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Leetcode/Leet0217.py)||
 |[0344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Leetcode/Leet0344.py)||
 |[0566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](./Leetcode/Leet0566.py)||
+|[0724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](./Leetcode/Leet0724.py)||
 |[0744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[Python](./Leetcode/Leet0744.py)|[Java](./Leetcode/Leet0744.java)|
 |[0832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Python](./Leetcode/Leet0832.py)|[Java](./Leetcode/Leet0832.java)|
 |[0852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)||[Java](./Leetcode/Leet0852.java)|
@@ -63,6 +64,7 @@
 |[1886. ]()|[Python](./Leetcode/Leet1886.py)||
 |[1920. ]()|[Python](./Leetcode/Leet1920.py)|[Java](./Leetcode/Leet1929.py)|
 |[1929. ]()|[Python](./Leetcode/Leet1929.py)|[Java](./Leetcode/Leet1929.py)|
+|[1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)|[Python](./Leetcode/Leet1991.py)||
 
 
 
