@@ -92,6 +92,7 @@
 |Rotate Array                      |[Python](./otherSnippets/RotateArray.py)||
 |RangeSum_PrefixSum                |[Python](./otherSnippets/RangeSum_PrefixSum.py)||
 |Equilibrium Index                 |[Python](./otherSnippets/EquilibriumIndex.py)||
+|Pick From Both Sides(prefix sum)  |[Python](./otherSnippets/PickFromBothSides.py)||
 
 Work in progress 🤓
 

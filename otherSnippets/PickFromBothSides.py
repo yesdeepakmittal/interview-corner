@@ -52,3 +52,12 @@ for i in range(k):
     if s > maxSum:
         maxSum = s
 print(maxSum)
+
+
+'''
+Output
+
+8
+8
+8
+'''
