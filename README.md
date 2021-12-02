@@ -81,7 +81,7 @@
 |         Problems                 | Python|  Java |
 |----------------------------------|-------|-------|
 |Armstrong                         ||[Java](./otherSnippets/Armstrong.java)|
-|Combination of 2 number          |[Python](./otherSnippets/combination2Num.py)||
+|Combination of 2 number           |[Python](./otherSnippets/combination2Num.py)||
 |Digit Length                      ||[Java](./otherSnippets/DigitLength.java)|
 |LCM GCD                           ||[Java](./otherSnippets/LcmGcd.java)|
 |Subset of Array                   |[Python](./otherSnippets/SubsetOfArray.py)||
@@ -89,6 +89,7 @@
 |Elements Greater than Itself      |[Python](./otherSnippets/ElementsGreaterThanItself.py)|[Java](./otherSnippets/ElementsGreaterThanItself.java)|
 |Rotate Array                      |[Python](./otherSnippets/RotateArray.py)||
 |RangeSum_PrefixSum                |[Python](./otherSnippets/RangeSum_PrefixSum.py)||
+|Equilibrium Index                 |[Python](./otherSnippets/EquilibriumIndex.py)||
 
 Work in progress 🤓
 
