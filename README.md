@@ -94,6 +94,7 @@
 |Equilibrium Index                 |[Python](./otherSnippets/EquilibriumIndex.py)||
 |Pick From Both Sides(prefix sum)  |[Python](./otherSnippets/PickFromBothSides.py)||
 |Count ways to make sum of odd and even indexed elements equal by removing an array element|[Python](./otherSnippets/CountWays.py)||
+|Leader Element                    |[Python](./otherSnippets/Leader.py)||
 
 Work in progress 🤓
 

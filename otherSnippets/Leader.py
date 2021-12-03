@@ -1,3 +1,6 @@
+'''
+Leader Element - Element which is strictly greater than all the elements in right side
+'''
 arr = [-7,1,5,2,-4,3,0]
 
 leader = arr[-1]
