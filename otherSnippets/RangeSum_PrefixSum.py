@@ -41,3 +41,20 @@ for i in range(1,len(arr)):
     arr[i] = arr[i-1] + arr[i]
 for i in query:
     print(arr[i[1]] - arr[i[0] - 1])
+
+
+'''
+for 1-indexed
+arr = [1, 2, 3, 4, 5]
+query = [[1, 4], [2, 3]]
+output = [10, 5]
+'''
+
+def rangeSum(self, A, B):
+    ans = []
+    pf = [0]*(len(A)+1)
+    for i in range(1,len(A)+1):
+        pf[i] = pf[i-1] + A[i-1]
+    for i in B:
+        ans.append(pf[i[1]] - pf[i[0]-1])
+    return ans
