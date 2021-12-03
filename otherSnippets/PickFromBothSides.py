@@ -14,7 +14,10 @@ print(max(s))
 
 
 # TC - O(K2) | SC - O(1)
-maxSum = 0
+import sys
+# maxSize = sys.maxsize
+# minSize = -sys.maxsize - 1  # Just to deal with negative value test cases
+maxSum = -sys.maxsize - 1
 for i in range(k):
     s = sum(arr[:i] + arr[-k+i:])
     if s > maxSum:
@@ -36,7 +39,7 @@ for i in range(len(arr)-2,-1,-1):
     sf[i] = sf[i-len(arr)+1] + arr[i-len(arr)]
 # print(sf)
 
-maxSum = 0
+maxSum = -sys.maxsize - 1
 for i in range(k):
     s = 0
     if i == 0:
