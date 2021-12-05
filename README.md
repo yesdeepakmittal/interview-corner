@@ -95,6 +95,7 @@
 |Pick From Both Sides(prefix sum)  |[Python](./otherSnippets/PickFromBothSides.py)||
 |Count ways to make sum of odd and even indexed elements equal by removing an array element|[Python](./otherSnippets/CountWays.py)||
 |Leader Element in array           |[Python](./otherSnippets/Leader.py)||
+|Even Odd Element Range Sum        |[Python](./otherSnippets/EvenOddRangeSum.py)||
 
 Work in progress 🤓
 
