@@ -96,6 +96,7 @@
 |Count ways to make sum of odd and even indexed elements equal by removing an array element|[Python](./otherSnippets/CountWays.py)||
 |Leader Element in array           |[Python](./otherSnippets/Leader.py)||
 |Even Odd Element Range Sum        |[Python](./otherSnippets/EvenOddRangeSum.py)||
+|AG pattern Carry Forward          |[Python](./otherSnippets/AGpattern_CarryForward.py)||
 
 Work in progress 🤓
 
