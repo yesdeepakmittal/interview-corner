@@ -97,6 +97,8 @@
 |Leader Element in array           |[Python](./otherSnippets/Leader.py)||
 |Even Odd Element Range Sum        |[Python](./otherSnippets/EvenOddRangeSum.py)||
 |AG pattern Carry Forward          |[Python](./otherSnippets/AGpattern_CarryForward.py)||
+|Maximum Sum of Subarray           |[Python](./otherSnippets/MaximumSumSubarray.py)||
+|Maximum Sum of Subarray of length k|[Python](./otherSnippets/MaximumSumSubarrayOfLengthK.py)||
 
 Work in progress 🤓
 
