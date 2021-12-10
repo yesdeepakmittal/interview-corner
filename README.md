@@ -99,6 +99,7 @@
 |AG pattern Carry Forward          |[Python](./otherSnippets/AGpattern_CarryForward.py)||
 |Maximum Sum of Subarray           |[Python](./otherSnippets/MaximumSumSubarray.py)||
 |Maximum Sum of Subarray of length k|[Python](./otherSnippets/MaximumSumSubarrayOfLengthK.py)||
+|Print Boundaries element clockwise|[Python](./otherSnippets/PrintBoundariesElement.py)||
 
 Work in progress 🤓
 
