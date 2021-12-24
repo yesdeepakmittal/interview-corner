@@ -100,6 +100,10 @@
 |Maximum Sum of Subarray           |[Python](./otherSnippets/MaximumSumSubarray.py)||
 |Maximum Sum of Subarray of length k|[Python](./otherSnippets/MaximumSumSubarrayOfLengthK.py)||
 |Print Boundaries element clockwise|[Python](./otherSnippets/PrintBoundariesElement.py)||
+|Bit Mask                          |[Python](./otherSnippets/BitMask.py)||
+|Modular Operator                  |[Python](./otherSnippets/modular_operator.py)||
+|Minimum Difference b/t elements   |[Python](./otherSnippets/MinimumDifference.py)||
+
 
 Work in progress 🤓
 
