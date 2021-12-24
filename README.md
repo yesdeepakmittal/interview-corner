@@ -104,6 +104,7 @@
 |Modular Operator                  |[Python](./otherSnippets/modular_operator.py)||
 |Minimum Difference b/t elements   |[Python](./otherSnippets/MinimumDifference.py)||
 |Minimum cost to remove all elements|[Python](./otherSnippets/MinimumCost.py)||
+|Noble Elements                    |[Python](./otherSnippets/NobleElement.py)||
 
 
 Work in progress 🤓
