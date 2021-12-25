@@ -112,6 +112,7 @@
 |Prefix String                     |[Python](./otherSnippets/PrefixString.py)||
 |Palindrome String                 |[Python](./otherSnippets/PalindromeString.py)||
 |Largest Sum of an array(String)   |[Python](./otherSnippets/LargestNumberSumString.py)||
+|Merge Sort                        |[Python](./otherSnippets/MergeSort.py)||
 
 
 Work in progress 🤓
