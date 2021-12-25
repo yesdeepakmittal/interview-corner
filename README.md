@@ -107,6 +107,11 @@
 |Noble Elements                    |[Python](./otherSnippets/NobleElement.py)||
 |Reversing a Substring             |[Python](./otherSnippets/ReversingSubString.py)||
 |Flip Case of String               |[Python](./otherSnippets/FlipCaseOfString.py)||
+|Sorting a String                  |[Python](./otherSnippets/SortingString.py)||
+|Reverse words in a String         |[Python](./otherSnippets/ReverseWordsinString.py)||
+|Prefix String                     |[Python](./otherSnippets/PrefixString.py)||
+|Palindrome String                 |[Python](./otherSnippets/PalindromeString.py)||
+|Largest Sum of an array(String)   |[Python](./otherSnippets/LargestNumberSumString.py)||
 
 
 Work in progress 🤓
