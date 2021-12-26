@@ -83,6 +83,7 @@
 |         Problems                 | Python|  Java |
 |----------------------------------|-------|-------|
 |Armstrong                         ||[Java](./otherSnippets/Armstrong.java)|
+|Decimal to Binary                 |[Python](./otherSnippets/DecimalToBinary.py)||
 |Combination of 2 number           |[Python](./otherSnippets/combination2Num.py)||
 |Digit Length                      ||[Java](./otherSnippets/DigitLength.java)|
 |LCM GCD                           ||[Java](./otherSnippets/LcmGcd.java)|
