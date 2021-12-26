@@ -104,7 +104,8 @@
 |Modular Operator                  |[Python](./otherSnippets/modular_operator.py)||
 |Minimum Difference b/t elements   |[Python](./otherSnippets/MinimumDifference.py)||
 |Minimum cost to remove all elements|[Python](./otherSnippets/MinimumCost.py)||
-|Noble Elements                    |[Python](./otherSnippets/NobleElement.py)||
+|Noble Element                     |[Python](./otherSnippets/NobleElement.py)||
+|Noble Element 2                   |[Python](./otherSnippets/NobleElement2.py)||
 |Reversing a Substring             |[Python](./otherSnippets/ReversingSubString.py)||
 |Flip Case of String               |[Python](./otherSnippets/FlipCaseOfString.py)||
 |Sorting a String                  |[Python](./otherSnippets/SortingString.py)||
