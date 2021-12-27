@@ -103,6 +103,12 @@
 |Print Boundaries element clockwise|[Python](./otherSnippets/PrintBoundariesElement.py)||
 |Bit Mask                          |[Python](./otherSnippets/BitMask.py)||
 |Modular Operator                  |[Python](./otherSnippets/modular_operator.py)||
+|Single Number                     |[Python](./otherSnippets/SingleNumber.py)||
+|Add Binary String                 |[Python](./otherSnippets/AddBinaryString.py)||
+|Number of 1 bits/count set bits   |[Python](./otherSnippets/CountNumberOf1Bits.py)||
+|Single Set bit                    |[Python](./otherSnippets/SingleSetBit.py)||
+|Reverse bits                      |[Python](./otherSnippets/ReverseBit.py)||
+
 |Minimum Difference b/t elements   |[Python](./otherSnippets/MinimumDifference.py)||
 |Minimum cost to remove all elements|[Python](./otherSnippets/MinimumCost.py)||
 |Noble Element                     |[Python](./otherSnippets/NobleElement.py)||
