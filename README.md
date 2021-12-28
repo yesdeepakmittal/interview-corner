@@ -108,6 +108,7 @@
 |AG pattern Carry Forward          |[Python](./otherSnippets/AGpattern_CarryForward.py)||
 |Maximum Sum of Subarray           |[Python](./otherSnippets/MaximumSumSubarray.py)||
 |Maximum Sum of Subarray of length k|[Python](./otherSnippets/MaximumSumSubarrayOfLengthK.py)||
+|Good Subarrays                    |[Python](./otherSnippets/GoodSubArrays.py)||
 |Print Boundaries element clockwise|[Python](./otherSnippets/PrintBoundariesElement.py)||
 |Bit Mask                          |[Python](./otherSnippets/BitMask.py)||
 |Modular Operator                  |[Python](./otherSnippets/modular_operator.py)||
