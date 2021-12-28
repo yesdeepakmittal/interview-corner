@@ -2,6 +2,7 @@
 ⏬click here to move to coding section
 - [Leetcode](https://github.com/yesdeepakmittal/competitive-coding#leetcode)
 - [Pepcoding](https://github.com/yesdeepakmittal/competitive-coding#pepcoding)
+- [GeeksforGeeks](https://github.com/yesdeepakmittal/competitive-coding#geeksforgeeks)
 - [Other Code Snippets](https://github.com/yesdeepakmittal/competitive-coding#other-code-snippets)
 
 
@@ -78,6 +79,13 @@
 |Level 1   |
 |Level 2   |
 |Level 3   |
+
+
+#### GeeksforGeeks
+|         Problems                 | Python|  Java |
+|----------------------------------|-------|-------|
+|[Reverse words in a given string ](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1/?company[]=Microsoft&company[]=Microsoft&page=4&query=company[]Microsoftpage4company[]Microsoft)
+|[Python](./GeeksforGeeks/ReverseString.py)||
 
 
 #### Other Code Snippets
