@@ -84,8 +84,7 @@
 #### GeeksforGeeks
 |         Problems                 | Python|  Java |
 |----------------------------------|-------|-------|
-|[Reverse words in a given string ](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1/?company[]=Microsoft&company[]=Microsoft&page=4&query=company[]Microsoftpage4company[]Microsoft)
-|[Python](./GeeksforGeeks/ReverseString.py)||
+|[Reverse words in a given string ](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1/?company[]=Microsoft&company[]=Microsoft&page=4&query=company[]Microsoftpage4company[]Microsoft)|[Python](./GeeksforGeeks/ReverseString.py)||
 
 
 #### Other Code Snippets
@@ -117,10 +116,8 @@
 |Number of 1 bits/count set bits   |[Python](./otherSnippets/CountNumberOf1Bits.py)||
 |Single Set bit                    |[Python](./otherSnippets/SingleSetBit.py)||
 |Reverse bits                      |[Python](./otherSnippets/ReverseBit.py)||
-
 |Minimum Difference b/t elements   |[Python](./otherSnippets/MinimumDifference.py)||
 |Closest Min Max                   |[Python](./otherSnippets/ClosestMinMax.py)||
-
 |Minimum cost to remove all elements|[Python](./otherSnippets/MinimumCost.py)||
 |Noble Element                     |[Python](./otherSnippets/NobleElement.py)||
 |Noble Element 2                   |[Python](./otherSnippets/NobleElement2.py)||
