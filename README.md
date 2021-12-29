@@ -107,7 +107,8 @@
 |Even Odd Element Range Sum        |[Python](./otherSnippets/EvenOddRangeSum.py)||
 |AG pattern Carry Forward          |[Python](./otherSnippets/AGpattern_CarryForward.py)||
 |Maximum Sum of Subarray           |[Python](./otherSnippets/MaximumSumSubarray.py)||
-|Maximum Sum of Subarray of length k|[Python](./otherSnippets/MaximumSumSubarrayOfLengthK.py)||
+|Maximum Sum of Subarray of length k|[Python](./otherSnippets/MaximumSumSubarrayOfLengthK.py)|| 
+|Sum of all Subarrays              |[Python](./otherSnippets/SumOfAllSubarrays.py)|| 
 |Good Subarrays                    |[Python](./otherSnippets/GoodSubArrays.py)||
 |Print Boundaries element clockwise|[Python](./otherSnippets/PrintBoundariesElement.py)||
 |Bit Mask                          |[Python](./otherSnippets/BitMask.py)||
