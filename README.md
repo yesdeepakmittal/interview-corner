@@ -110,6 +110,8 @@
 |Maximum Sum of Subarray of length k|[Python](./otherSnippets/MaximumSumSubarrayOfLengthK.py)|| 
 |End Index of Subarrays of length k|[Python](./otherSnippets/EndIndexOfArrayOfLengthK.py)|| 
 |Sum of all Subarrays              |[Python](./otherSnippets/SumOfAllSubarrays.py)|| 
+|Subarray index with least average |[Python](./otherSnippets/SubarrayWithLeastAverage.py)|| 
+|Alternating Subarrays             |[Python](./otherSnippets/AlternatingSubarrays.py)|| 
 |Good Subarrays                    |[Python](./otherSnippets/GoodSubArrays.py)||
 |Print Boundaries element clockwise|[Python](./otherSnippets/PrintBoundariesElement.py)||
 |Bit Mask                          |[Python](./otherSnippets/BitMask.py)||
