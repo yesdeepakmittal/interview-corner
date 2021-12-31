@@ -115,6 +115,8 @@
 |Subarray index with least average |[Python](./otherSnippets/SubarrayWithLeastAverage.py)|| 
 |Alternating Subarrays             |[Python](./otherSnippets/AlternatingSubarrays.py)|| 
 |Good Subarrays                    |[Python](./otherSnippets/GoodSubArrays.py)||
+|All Diagonals R to L              |[Python](./otherSnippets/AllDiagonalsRtoL.py)||
+|Matrix Transpose                  |[Python](./otherSnippets/TransposeMatrix.py)||
 |Print Boundaries element clockwise|[Python](./otherSnippets/PrintBoundariesElement.py)||
 |Bit Mask                          |[Python](./otherSnippets/BitMask.py)||
 |Modular Operator                  |[Python](./otherSnippets/modular_operator.py)||
