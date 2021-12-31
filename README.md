@@ -85,6 +85,7 @@
 |         Problems                 | Python|  Java |
 |----------------------------------|-------|-------|
 |[Reverse words in a given string ](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1/?company[]=Microsoft&company[]=Microsoft&page=4&query=company[]Microsoftpage4company[]Microsoft)|[Python](./GeeksforGeeks/ReverseString.py)||
+|[Peak Element](https://practice.geeksforgeeks.org/problems/peak-element/1#)|[Python](./GeeksforGeeks/PeakElement.py)||
 
 
 #### Other Code Snippets
