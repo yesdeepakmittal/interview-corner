@@ -86,6 +86,7 @@
 |----------------------------------|-------|-------|
 |[Reverse words in a given string ](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1/?company[]=Microsoft&company[]=Microsoft&page=4&query=company[]Microsoftpage4company[]Microsoft)|[Python](./GeeksforGeeks/ReverseString.py)||
 |[Peak Element](https://practice.geeksforgeeks.org/problems/peak-element/1#)|[Python](./GeeksforGeeks/PeakElement.py)||
+|[Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1#)|[Python](./GeeksforGeeks/PeakElement.py)||
 
 
 #### Other Code Snippets
