@@ -12,5 +12,15 @@ if __name__ == "__main__":
 	print(mat)
 
 #Transpose Rectangular Matrix
-N= 3
-M = 4
+class Solution:
+    # @param A : list of list of integers
+    # @return a list of list of integers
+    def solve(self, mat):
+        N = len(mat)
+        M = len(mat[0])
+        mat2 = [[0 for i in range(N)] for j in range(M)]
+        for row in range(M):
+            for col in range(N):
+                mat2[row][col] = mat[col][row]
+        return mat2
+
