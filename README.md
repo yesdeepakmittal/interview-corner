@@ -118,6 +118,9 @@
 |Matrix Diagonals                  |[Python](./otherSnippets/PrintDiagonals.py)||
 |All Diagonals R to L              |[Python](./otherSnippets/AllDiagonalsRtoL.py)||
 |Matrix Transpose                  |[Python](./otherSnippets/TransposeMatrix.py)||
+|Rotate Matrix 90 degree clockwise |[Python](./otherSnippets/RotateMatrix.py)||
+|Matrix Subtraction                |[Python](./otherSnippets/SubtractMatrix.py)||
+|Matrix Multiplication             |[Python](./otherSnippets/MatrixMultiplication.py)||
 |Print Boundaries element clockwise|[Python](./otherSnippets/PrintBoundariesElement.py)||
 |Bit Mask                          |[Python](./otherSnippets/BitMask.py)||
 |Modular Operator                  |[Python](./otherSnippets/modular_operator.py)||
