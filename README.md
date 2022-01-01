@@ -124,7 +124,7 @@
 |Print Boundaries element clockwise|[Python](./otherSnippets/PrintBoundariesElement.py)||
 |Bit Mask                          |[Python](./otherSnippets/BitMask.py)||
 |Modular Operator                  |[Python](./otherSnippets/modular_operator.py)||
-|Single Number                     |[Python](./otherSnippets/SingleNumber.py)||
+|Single/Unique Number              |[Python](./otherSnippets/SingleNumber.py)||
 |Add Binary String                 |[Python](./otherSnippets/AddBinaryString.py)||
 |Number of 1 bits/count set bits   |[Python](./otherSnippets/CountNumberOf1Bits.py)||
 |Single Set bit                    |[Python](./otherSnippets/SingleSetBit.py)||
