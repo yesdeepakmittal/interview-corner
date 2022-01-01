@@ -69,16 +69,11 @@
 |[1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/)|[Python](./Leetcode/Leet1991.py)||
 
 
+#### InterviewBit
+|         Problems                 | Python|  Java |
+|----------------------------------|-------|-------|
+|[Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/)|[Python](./Interviewbit/FindDuplicate.py)||
 
-
-
-#### Pepcoding
-
-|Pepcoding|
-|---------|
-|Level 1   |
-|Level 2   |
-|Level 3   |
 
 
 #### GeeksforGeeks
@@ -142,6 +137,16 @@
 |Palindrome String                 |[Python](./otherSnippets/PalindromeString.py)||
 |Largest Sum of an array(String)   |[Python](./otherSnippets/LargestNumberSumString.py)||
 |Merge Sort                        |[Python](./otherSnippets/MergeSort.py)||
+
+
+
+#### Pepcoding
+
+|Pepcoding|
+|---------|
+|Level 1   |
+|Level 2   |
+|Level 3   |
 
 
 Work in progress 🤓
