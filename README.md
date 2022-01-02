@@ -1,6 +1,7 @@
 # Competitive Coding using Python & Java
 ⏬click here to move to coding section
 - [Leetcode](https://github.com/yesdeepakmittal/competitive-coding#leetcode)
+- [InterviewBit](https://github.com/yesdeepakmittal/competitive-coding#interviewbit)
 - [Pepcoding](https://github.com/yesdeepakmittal/competitive-coding#pepcoding)
 - [GeeksforGeeks](https://github.com/yesdeepakmittal/competitive-coding#geeksforgeeks)
 - [Other Code Snippets](https://github.com/yesdeepakmittal/competitive-coding#other-code-snippets)
@@ -73,6 +74,8 @@
 |         Problems                 | Python|  Java |
 |----------------------------------|-------|-------|
 |[Find Duplicate in Array](https://www.interviewbit.com/problems/find-duplicate-in-array/)|[Python](./Interviewbit/FindDuplicate.py)||
+|[Anti Diagonals](https://www.interviewbit.com/problems/anti-diagonals/)|[Python](./Interviewbit/AntiDiagonals.py)||
+|[Occurence of Each Number](https://www.interviewbit.com/problems/occurence-of-each-number/)|[Python](./Interviewbit/OccurenceOfNumber.py)||
 
 
 
@@ -116,6 +119,9 @@
 |Rotate Matrix 90 degree clockwise |[Python](./otherSnippets/RotateMatrix.py)||
 |Matrix Subtraction                |[Python](./otherSnippets/SubtractMatrix.py)||
 |Matrix Multiplication             |[Python](./otherSnippets/MatrixMultiplication.py)||
+|Matrix Scaler Product             |[Python](./otherSnippets/MatrixScalerProduct.py)||
+|Row to Column Zero                |[Python](./otherSnippets/RowColumnZero.py)||
+|Are Matrices Same ?               |[Python](./otherSnippets/SameMatrix.py)||
 |Print Boundaries element clockwise|[Python](./otherSnippets/PrintBoundariesElement.py)||
 |Bit Mask                          |[Python](./otherSnippets/BitMask.py)||
 |Modular Operator                  |[Python](./otherSnippets/modular_operator.py)||
