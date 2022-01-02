@@ -123,6 +123,7 @@
 |Row to Column Zero                |[Python](./otherSnippets/RowColumnZero.py)||
 |Are Matrices Same ?               |[Python](./otherSnippets/SameMatrix.py)||
 |Print Boundaries element clockwise|[Python](./otherSnippets/PrintBoundariesElement.py)||
+|Length of longest consecutive ones|[Python](./otherSnippets/LongestConsecutiveLength.py)||
 |Bit Mask                          |[Python](./otherSnippets/BitMask.py)||
 |Modular Operator                  |[Python](./otherSnippets/modular_operator.py)||
 |Single/Unique Number              |[Python](./otherSnippets/SingleNumber.py)||
