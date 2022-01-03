@@ -28,6 +28,7 @@
 |[0080. Remove Duplicates from Sorted Array 2](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Python](./Leetcode/Leet0080.py)||
 |[0081. Search in Rotated Sorted Array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Python](./Leetcode/Leet0081.py)||
 |[0088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Python](./Leetcode/Leet0088.py)|[Java](./Leetcode/Leet0088.java)|
+|[0135. Candy](https://leetcode.com/problems/candy/)|[Python](./Leetcode/Leet0135.py)||
 |[0136. Single Number](https://leetcode.com/problems/single-number/)|[Python](./Leetcode/Leet0136.py)||
 |[0137. Single number 2](https://leetcode.com/problems/single-number-ii/)|[Python](./Leetcode/Leet0137.py)||
 |[0151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](./Leetcode/Leet0151.py)||
