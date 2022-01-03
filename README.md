@@ -19,6 +19,8 @@
 |[0035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](./Leetcode/Leet0035.py)||
 |[0046. Permutations](https://leetcode.com/problems/permutations/)|[Python](./Leetcode/Leet0046.py)||
 |[0047. Permutations 2](https://leetcode.com/problems/permutations-ii/)|[Python](./Leetcode/Leet0047.py)||
+|[0050. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](./Leetcode/Leet0050.py)||
+|[0058. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](./Leetcode/Leet0058.py)||
 |[0066. Plus One](https://leetcode.com/problems/plus-one/)|[Python](./Leetcode/Leet0066.py)||
 |[0073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](./Leetcode/Leet0073.py)||
 |[0074. Search a 2-D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](./Leetcode/Leet0074.py)||
@@ -123,7 +125,8 @@
 |Matrix Scaler Product             |[Python](./otherSnippets/MatrixScalerProduct.py)||
 |Row to Column Zero                |[Python](./otherSnippets/RowColumnZero.py)||
 |Are Matrices Same ?               |[Python](./otherSnippets/SameMatrix.py)||
-|Print Boundaries element clockwise|[Python](./otherSnippets/PrintBoundariesElement.py)||
+|Print Boundaries element clockwise/Spiral Matrix|[Python](./otherSnippets/PrintBoundariesElement.py)||
+|Spiral Matrix                     |[Python](./otherSnippets/PrintBoundariesElement2.py)||
 |Length of longest consecutive ones|[Python](./otherSnippets/LongestConsecutiveLength.py)||
 |Triplets                          |[Python](./otherSnippets/Triplets.py)||
 |Triplets 2                        |[Python](./otherSnippets/Triplets2.py)||
