@@ -2,6 +2,9 @@
 Generate square matrix filled with values 1 to A2 in spiral fashion
 i/p -> A = 3
 o/p -> [[1, 2, 3], [8, 9, 4], [7, 6, 5]]
+
+i/p -> A = 4
+[[1, 2, 3, 4], [12, 13, 14, 5], [11, 16, 15, 6], [10, 9, 8, 7]]
 '''
 class Solution:
 	# @param A : integer
@@ -38,3 +41,4 @@ class Solution:
 		return mat
     
 print(Solution().generateMatrix(3))
+print(Solution().generateMatrix(4))
