@@ -126,7 +126,8 @@
 |Row to Column Zero                |[Python](./otherSnippets/RowColumnZero.py)||
 |Are Matrices Same ?               |[Python](./otherSnippets/SameMatrix.py)||
 |Print Boundaries element clockwise/Spiral Matrix|[Python](./otherSnippets/PrintBoundariesElement.py)||
-|Spiral Matrix                     |[Python](./otherSnippets/PrintBoundariesElement2.py)||
+|Spiral Matrix 2                   |[Python](./otherSnippets/PrintBoundariesElement2.py)||
+|Spiral Matrix 3                   |[Python](./otherSnippets/SpiralMatrix3.py)||
 |Length of longest consecutive ones|[Python](./otherSnippets/LongestConsecutiveLength.py)||
 |Triplets                          |[Python](./otherSnippets/Triplets.py)||
 |Triplets 2                        |[Python](./otherSnippets/Triplets2.py)||
