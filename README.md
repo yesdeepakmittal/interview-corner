@@ -145,6 +145,9 @@
 |Minimum cost to remove all elements|[Python](./otherSnippets/MinimumCost.py)||
 |Noble Element                     |[Python](./otherSnippets/NobleElement.py)||
 |Noble Element 2                   |[Python](./otherSnippets/NobleElement2.py)||
+|Star Pattern                      |[Python](./otherSnippets/StarPattern1.py)||
+|Star Pattern 2                    |[Python](./otherSnippets/StarPattern2.py)||
+|Minimum switch to light all bulbs |[Python](./otherSnippets/bulbs.py)||
 |Reversing a Substring             |[Python](./otherSnippets/ReversingSubString.py)||
 |Flip Case of String               |[Python](./otherSnippets/FlipCaseOfString.py)||
 |Sorting a String                  |[Python](./otherSnippets/SortingString.py)||
