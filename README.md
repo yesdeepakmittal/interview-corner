@@ -116,6 +116,7 @@
 |Subarray index with least average |[Python](./otherSnippets/SubarrayWithLeastAverage.py)|| 
 |Alternating Subarrays             |[Python](./otherSnippets/AlternatingSubarrays.py)|| 
 |Good Subarrays                    |[Python](./otherSnippets/GoodSubArrays.py)||
+|Maximum Positive Subarrays        |[Python](./otherSnippets/MaxPositiveSubarray.py)||
 |Matrix Diagonals                  |[Python](./otherSnippets/PrintDiagonals.py)||
 |All Diagonals R to L              |[Python](./otherSnippets/AllDiagonalsRtoL.py)||
 |Matrix Transpose                  |[Python](./otherSnippets/TransposeMatrix.py)||
