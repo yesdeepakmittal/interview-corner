@@ -30,3 +30,4 @@ def single_set2(n):
 
 print(single_set2(64))
 print(single_set2(65))
+print(single_set2(128))
