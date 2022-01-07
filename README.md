@@ -140,6 +140,7 @@
 |Number of 1 bits/count set bits   |[Python](./otherSnippets/CountNumberOf1Bits.py)||
 |Single Set bit                    |[Python](./otherSnippets/SingleSetBit.py)||
 |Reverse bits                      |[Python](./otherSnippets/ReverseBit.py)||
+|Maximum &(bitwise) product of 4 number|[Python](./otherSnippets/MaximumANDproduct.py)||
 |Minimum Difference b/t elements   |[Python](./otherSnippets/MinimumDifference.py)||
 |Closest Min Max                   |[Python](./otherSnippets/ClosestMinMax.py)||
 |Minimum cost to remove all elements|[Python](./otherSnippets/MinimumCost.py)||
