@@ -115,6 +115,7 @@
 |End Index of Subarrays of length k|[Python](./otherSnippets/EndIndexOfArrayOfLengthK.py)|| 
 |Sum of all Subarrays              |[Python](./otherSnippets/SumOfAllSubarrays.py)|| 
 |Subarray index with least average |[Python](./otherSnippets/SubarrayWithLeastAverage.py)|| 
+|Subarray with zero sum            |[Python](./otherSnippets/SubarraySumZero.py)|| 
 |Alternating Subarrays             |[Python](./otherSnippets/AlternatingSubarrays.py)|| 
 |Good Subarrays                    |[Python](./otherSnippets/GoodSubArrays.py)||
 |Maximum Positive Subarrays        |[Python](./otherSnippets/MaxPositiveSubarray.py)||
