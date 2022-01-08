@@ -159,6 +159,9 @@
 |Palindrome String                 |[Python](./otherSnippets/PalindromeString.py)||
 |Largest Sum of an array(String)   |[Python](./otherSnippets/LargestNumberSumString.py)||
 |Merge Sort                        |[Python](./otherSnippets/MergeSort.py)||
+|Common Element                    |[Python](./otherSnippets/CommonElement.py)||
+|First Repeating Element           |[Python](./otherSnippets/FirstRepeatingElement.py)||
+|Closest Distance b/t Repeating Element|[Python](./otherSnippets/ClosestDistanceElements.py)||
 
 
 
