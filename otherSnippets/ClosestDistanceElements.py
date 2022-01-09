@@ -25,7 +25,7 @@ class Solution:
                 if d[i][1] - d[i][0] < ans:
                     ans = d[i][1] - d[i][0]
             else:
-                d[i] = [idx,len(A)]  #[a index, b index, count of number]
+                d[i] = [idx,len(A)]     #[a index, b index, count of number]
             idx += 1
         
         if ans == len(A):
