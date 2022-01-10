@@ -162,6 +162,7 @@
 |Common Element                    |[Python](./otherSnippets/CommonElement.py)||
 |First Repeating Element           |[Python](./otherSnippets/FirstRepeatingElement.py)||
 |Closest Distance b/t Repeating Element|[Python](./otherSnippets/ClosestDistanceElements.py)||
+|Factorial using Recursion         |[Python](./otherSnippets/factorial.py)||
 
 
 
