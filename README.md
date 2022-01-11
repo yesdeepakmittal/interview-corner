@@ -132,6 +132,7 @@
 |Spiral Matrix 2                   |[Python](./otherSnippets/PrintBoundariesElement2.py)||
 |Spiral Matrix 3                   |[Python](./otherSnippets/SpiralMatrix3.py)||
 |Length of longest consecutive ones|[Python](./otherSnippets/LongestConsecutiveLength.py)||
+|Longest Subarray with Zero Sum    |[Python](./otherSnippets/SubarrayZeroSum.py)||
 |Triplets                          |[Python](./otherSnippets/Triplets.py)||
 |Triplets 2                        |[Python](./otherSnippets/Triplets2.py)||
 |Gas Station                       |[Python](./otherSnippets/GasStation.py)||
