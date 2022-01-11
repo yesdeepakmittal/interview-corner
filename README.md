@@ -133,6 +133,7 @@
 |Spiral Matrix 3                   |[Python](./otherSnippets/SpiralMatrix3.py)||
 |Length of longest consecutive ones|[Python](./otherSnippets/LongestConsecutiveLength.py)||
 |Longest Subarray with Zero Sum    |[Python](./otherSnippets/SubarrayZeroSum.py)||
+|Subarray Product for Colorful Number|[Python](./otherSnippets/ColorfulNumber.py)||
 |Triplets                          |[Python](./otherSnippets/Triplets.py)||
 |Triplets 2                        |[Python](./otherSnippets/Triplets2.py)||
 |Gas Station                       |[Python](./otherSnippets/GasStation.py)||
