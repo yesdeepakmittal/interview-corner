@@ -163,6 +163,7 @@
 |First Repeating Element           |[Python](./otherSnippets/FirstRepeatingElement.py)||
 |Closest Distance b/t Repeating Element|[Python](./otherSnippets/ClosestDistanceElements.py)||
 |Factorial using Recursion         |[Python](./otherSnippets/factorial.py)||
+|Fibonacci Number using Recursion  |[Python](./otherSnippets/fibo.py)||
 
 
 
