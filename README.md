@@ -167,6 +167,10 @@
 |Closest Distance b/t Repeating Element|[Python](./otherSnippets/ClosestDistanceElements.py)||
 |Factorial using Recursion         |[Python](./otherSnippets/factorial.py)||
 |Fibonacci Number using Recursion  |[Python](./otherSnippets/fibo.py)||
+|Anagram                           |[Python](./otherSnippets/Anagram.py)||
+|First & Last index in sorted array|[Python](./otherSnippets/FLSorted.py)||
+|Kth Largest Number                |[Python](./otherSnippets/KLargest.py)||
+|Distinct elements in window size K|[Python](./otherSnippets/KWindow.py)||
 
 
 
