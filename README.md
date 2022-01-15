@@ -165,8 +165,11 @@
 |Common Element                    |[Python](./otherSnippets/CommonElement.py)||
 |First Repeating Element           |[Python](./otherSnippets/FirstRepeatingElement.py)||
 |Closest Distance b/t Repeating Element|[Python](./otherSnippets/ClosestDistanceElements.py)||
+|Recursion|||
 |Factorial using Recursion         |[Python](./otherSnippets/factorial.py)||
 |Fibonacci Number using Recursion  |[Python](./otherSnippets/fibo.py)||
+|pow(a,n)%d                        |[Python](./otherSnippets/powMod.py)||
+||||
 |Anagram                           |[Python](./otherSnippets/Anagram.py)||
 |First & Last index in sorted array|[Python](./otherSnippets/FLSorted.py)||
 |Kth Largest Number                |[Python](./otherSnippets/KLargest.py)||
