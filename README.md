@@ -174,6 +174,8 @@
 |First & Last index in sorted array|[Python](./otherSnippets/FLSorted.py)||
 |Kth Largest Number                |[Python](./otherSnippets/KLargest.py)||
 |Distinct elements in window size K|[Python](./otherSnippets/KWindow.py)||
+||||
+|Valid Parenthesis                 |[Python](./otherSnippets/ValidParenthesis.py)||
 
 
 
