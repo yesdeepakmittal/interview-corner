@@ -89,6 +89,9 @@
 |[Peak Element](https://practice.geeksforgeeks.org/problems/peak-element/1#)|[Python](./GeeksforGeeks/PeakElement.py)||
 |[Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1#)|[Python](./GeeksforGeeks/PeakElement.py)||
 |[String Ignorance](https://practice.geeksforgeeks.org/problems/string-ignorance/0/)|[Python](./GeeksforGeeks/StringIgnorance.py)||
+|[Winner of Election](https://practice.geeksforgeeks.org/problems/winner-of-an-election/0/)|[Python](./GeeksforGeeks/WinnerElection.py)||
+|[K subarray Sum](https://practice.geeksforgeeks.org/problems/k-subarray-sum/0/)|[Python](./GeeksforGeeks/KSubarraySum.py)||
+|[Geek and his Marks](https://practice.geeksforgeeks.org/problems/geek-and-his-marks-1611824243/0/)|[Python](./GeeksforGeeks/GeekMarks.py)||
 
 
 #### Other Code Snippets
