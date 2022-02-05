@@ -154,6 +154,7 @@
 |Closest Min Max                   |[Python](./otherSnippets/ClosestMinMax.py)||
 |Minimum cost to remove all elements|[Python](./otherSnippets/MinimumCost.py)||
 |Excel Column Number(AB -> 28)     |[Python](./otherSnippets/ExcelColumnNumber.py)||
+|Rectangle Overlap                 |[Python](./otherSnippets/RectangleOverlap.py)||
 |Noble Element                     |[Python](./otherSnippets/NobleElement.py)||
 |Noble Element 2                   |[Python](./otherSnippets/NobleElement2.py)||
 |Star Pattern                      |[Python](./otherSnippets/StarPattern1.py)||
