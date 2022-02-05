@@ -14,6 +14,7 @@ class Solution:
     # @param A : integer
     # @return an integer
     def solve(self, A):
+        # TC - O(N) 
         var = bin(A)[2:][::-1]
         p = 1
         s = 0
@@ -22,5 +23,16 @@ class Solution:
                 s += pow(5,p)
             p += 1
         return s
+    
+    def solve2(self,A):
+        # TC - O(logN)
+        s = 0
+        p = 1
+        while A > 0:
+            s += (A%2)*pow(5,p)
+            p += 1
+            A //= 2
+        return s
 
 print(Solution().solve(7))  # 155
+print(Solution().solve2(7))  # 155
