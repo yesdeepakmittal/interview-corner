@@ -2,7 +2,6 @@
 ⏬click here to move to coding section
 - [Leetcode](https://github.com/yesdeepakmittal/competitive-coding#leetcode)
 - [InterviewBit](https://github.com/yesdeepakmittal/competitive-coding#interviewbit)
-- [Pepcoding](https://github.com/yesdeepakmittal/competitive-coding#pepcoding)
 - [GeeksforGeeks](https://github.com/yesdeepakmittal/competitive-coding#geeksforgeeks)
 - [Other Code Snippets](https://github.com/yesdeepakmittal/competitive-coding#other-code-snippets)
 
