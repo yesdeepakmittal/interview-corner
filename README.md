@@ -186,20 +186,3 @@
 ||||
 |Valid Parenthesis                 |[Python](./otherSnippets/ValidParenthesis.py)||
 
-
-
-#### Pepcoding
-
-|Pepcoding|
-|---------|
-|Level 1   |
-|Level 2   |
-|Level 3   |
-
-
-Work in progress 🤓
-
-😊Please add code files to this repository and open a pull-request. 
-
-🌟Hit the star button if this repository benefits you
-
