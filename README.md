@@ -156,6 +156,7 @@
 |Excel Column Number(AB -> 28)     |[Python](./otherSnippets/ExcelColumnNumber.py)||
 |Rectangle Overlap                 |[Python](./otherSnippets/RectangleOverlap.py)||
 |Magical Number                    |[Python](./otherSnippets/MagicNumber.py)||
+|N/3 Repeat Number                 |[Python](./otherSnippets/N3_elements.py)||
 |Noble Element                     |[Python](./otherSnippets/NobleElement.py)||
 |Noble Element 2                   |[Python](./otherSnippets/NobleElement2.py)||
 |Star Pattern                      |[Python](./otherSnippets/StarPattern1.py)||
