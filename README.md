@@ -149,6 +149,7 @@
 |Single Set bit                    |[Python](./otherSnippets/SingleSetBit.py)||
 |Reverse bits                      |[Python](./otherSnippets/ReverseBit.py)||
 |Maximum &(bitwise) product of 4 number|[Python](./otherSnippets/MaximumANDproduct.py)||
+|Pairs With Given Xor              |[Python](./otherSnippets/PairsXOR.py)||
 |Minimum Difference b/t elements   |[Python](./otherSnippets/MinimumDifference.py)||
 |Closest Min Max                   |[Python](./otherSnippets/ClosestMinMax.py)||
 |Minimum cost to remove all elements|[Python](./otherSnippets/MinimumCost.py)||
@@ -161,12 +162,14 @@
 |Star Pattern                      |[Python](./otherSnippets/StarPattern1.py)||
 |Star Pattern 2                    |[Python](./otherSnippets/StarPattern2.py)||
 |Minimum switch to light all bulbs |[Python](./otherSnippets/bulbs.py)||
+||||
 |Reversing a Substring             |[Python](./otherSnippets/ReversingSubString.py)||
 |Flip Case of String               |[Python](./otherSnippets/FlipCaseOfString.py)||
 |Sorting a String                  |[Python](./otherSnippets/SortingString.py)||
 |Reverse words in a String         |[Python](./otherSnippets/ReverseWordsinString.py)||
 |Prefix String                     |[Python](./otherSnippets/PrefixString.py)||
 |Palindrome String                 |[Python](./otherSnippets/PalindromeString.py)||
+|Palindrome String 2               |[Python](./otherSnippets/PalindromeString2.py)||
 |Largest Sum of an array(String)   |[Python](./otherSnippets/LargestNumberSumString.py)||
 |Rearrange String to make it Palindrome|[Python](./otherSnippets/StringPalindrome.py)||
 |Merge Sort                        |[Python](./otherSnippets/MergeSort.py)||
