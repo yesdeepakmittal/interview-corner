@@ -162,7 +162,6 @@
 |Star Pattern                      |[Python](./otherSnippets/StarPattern1.py)||
 |Star Pattern 2                    |[Python](./otherSnippets/StarPattern2.py)||
 |Minimum switch to light all bulbs |[Python](./otherSnippets/bulbs.py)||
-||||
 |Reversing a Substring             |[Python](./otherSnippets/ReversingSubString.py)||
 |Flip Case of String               |[Python](./otherSnippets/FlipCaseOfString.py)||
 |Sorting a String                  |[Python](./otherSnippets/SortingString.py)||
@@ -176,15 +175,12 @@
 |Common Element                    |[Python](./otherSnippets/CommonElement.py)||
 |First Repeating Element           |[Python](./otherSnippets/FirstRepeatingElement.py)||
 |Closest Distance b/t Repeating Element|[Python](./otherSnippets/ClosestDistanceElements.py)||
-|Recursion|||
 |Factorial using Recursion         |[Python](./otherSnippets/factorial.py)||
 |Fibonacci Number using Recursion  |[Python](./otherSnippets/fibo.py)||
 |pow(a,n)%d                        |[Python](./otherSnippets/powMod.py)||
-||||
 |Anagram                           |[Python](./otherSnippets/Anagram.py)||
 |First & Last index in sorted array|[Python](./otherSnippets/FLSorted.py)||
 |Kth Largest Number                |[Python](./otherSnippets/KLargest.py)||
 |Distinct elements in window size K|[Python](./otherSnippets/KWindow.py)||
-||||
 |Valid Parenthesis                 |[Python](./otherSnippets/ValidParenthesis.py)||
-
+|Valid Sudoku                      |[Python](./otherSnippets/ValidSudoku.py)||
