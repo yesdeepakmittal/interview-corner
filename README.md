@@ -21,6 +21,7 @@
 |[0050. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Python](./Leetcode/Leet0050.py)||
 |[0058. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](./Leetcode/Leet0058.py)||
 |[0066. Plus One](https://leetcode.com/problems/plus-one/)|[Python](./Leetcode/Leet0066.py)||
+|[0067. Add Binary](https://leetcode.com/problems/add-binary/)|[Python](./Leetcode/Leet0067.py)||
 |[0073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Python](./Leetcode/Leet0073.py)||
 |[0074. Search a 2-D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Python](./Leetcode/Leet0074.py)||
 |[0075. Sort Colors](https://leetcode.com/problems/sort-colors/)|[Python](./Leetcode/Leet0075.py)||
