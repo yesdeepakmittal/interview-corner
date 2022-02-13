@@ -106,6 +106,8 @@
 |Digit Length                      ||[Java](./otherSnippets/DigitLength.java)|
 |LCM GCD                           |[Python](./otherSnippets/LcmGcd.py)|[Java](./otherSnippets/LcmGcd.java)|
 |Largest Coprime Divisor           |[Python](./otherSnippets/LargestCoprime.py)||
+|Maximum GCD after removing an element from array|[Python](./otherSnippets/MaximumGCD.py)||
+|All GCD Pairs                     |[Python](./otherSnippets/AllGCD.py)||
 |Subset of Array                   |[Python](./otherSnippets/SubsetOfArray.py)||
 |Reverse a list                    |[Python](./otherSnippets/reverseList.py)||
 |Elements Greater than Itself      |[Python](./otherSnippets/ElementsGreaterThanItself.py)|[Java](./otherSnippets/ElementsGreaterThanItself.java)|
