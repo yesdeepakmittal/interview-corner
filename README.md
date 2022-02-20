@@ -94,6 +94,8 @@
 |[K subarray Sum](https://practice.geeksforgeeks.org/problems/k-subarray-sum/0/)|[Python](./GeeksforGeeks/KSubarraySum.py)||
 |[Geek and his Marks](https://practice.geeksforgeeks.org/problems/geek-and-his-marks-1611824243/0/)|[Python](./GeeksforGeeks/GeekMarks.py)||
 |[K Frequency](https://practice.geeksforgeeks.org/problems/kth-frequency-1611823641/0/)|[Python](./GeeksforGeeks/KFrequency.py)||
+|**Array**|||
+|[Maximum occured integer](https://practice.geeksforgeeks.org/problems/maximum-occured-integer4602/1/)|[Python](./GeeksforGeeks/MaxOccured.py)||
 
 
 #### Other Code Snippets
