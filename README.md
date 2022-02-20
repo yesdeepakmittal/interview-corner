@@ -40,7 +40,7 @@
 |[0164. Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Python](./Leetcode/Leet0164.py)||
 |[0167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](./Leetcode/Leet0167.py)||
 |[0169. Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./Leetcode/Leet0169.py)||
-|[0189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Leetcode/Leet0189.py)||
+|[0189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Leetcode/Leet0189.py)|[Java](./Leetcode/Leet0189.java)|
 |[0217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Leetcode/Leet0217.py)||
 |[0344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Leetcode/Leet0344.py)||
 |[0566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](./Leetcode/Leet0566.py)||
