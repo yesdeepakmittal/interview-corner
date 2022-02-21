@@ -33,6 +33,7 @@
 |[0135. Candy](https://leetcode.com/problems/candy/)|[Python](./Leetcode/Leet0135.py)||
 |[0136. Single Number](https://leetcode.com/problems/single-number/)|[Python](./Leetcode/Leet0136.py)||
 |[0137. Single number 2](https://leetcode.com/problems/single-number-ii/)|[Python](./Leetcode/Leet0137.py)||
+|[0148. Sort List](https://leetcode.com/problems/sort-list/)|[Python](./Leetcode/Leet0148.py)||
 |[0151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Python](./Leetcode/Leet0151.py)||
 |[0153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Python](./Leetcode/Leet0153.py)||
 |[0154. Find Minimum in Rotated Sorted Array 2](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)|[Python](./Leetcode/Leet0154.py)||
@@ -40,7 +41,7 @@
 |[0164. Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[Python](./Leetcode/Leet0164.py)||
 |[0167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](./Leetcode/Leet0167.py)||
 |[0169. Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./Leetcode/Leet0169.py)||
-|[0189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Leetcode/Leet0189.py)|[Java](./Leetcode/Leet0189.java)|
+|[0189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Leetcode/Leet0189.py)|[Javaj](./Leetcode/Leet0189.java)|
 |[0217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Leetcode/Leet0217.py)||
 |[0344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Leetcode/Leet0344.py)||
 |[0566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](./Leetcode/Leet0566.py)||
