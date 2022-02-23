@@ -97,6 +97,8 @@
 |[K Frequency](https://practice.geeksforgeeks.org/problems/kth-frequency-1611823641/0/)|[Python](./GeeksforGeeks/KFrequency.py)||
 |**Array**|||
 |[Maximum occured integer](https://practice.geeksforgeeks.org/problems/maximum-occured-integer4602/1/)|[Python](./GeeksforGeeks/MaxOccured.py)||
+|[Case-specific Sorting of Strings](https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1/)|[Python](./GeeksforGeeks/CaseSpecificSorting.py)||
+|[maximum sum of i*A[i] ](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1/)|[Python](./GeeksforGeeks/MaxSum.py)||
 
 
 #### Other Code Snippets
