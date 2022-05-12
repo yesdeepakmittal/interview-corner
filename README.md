@@ -99,6 +99,8 @@
 |[Maximum occured integer](https://practice.geeksforgeeks.org/problems/maximum-occured-integer4602/1/)|[Python](./GeeksforGeeks/MaxOccured.py)||
 |[Case-specific Sorting of Strings](https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1/)|[Python](./GeeksforGeeks/CaseSpecificSorting.py)||
 |[maximum sum of i*A[i] ](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1/)|[Python](./GeeksforGeeks/MaxSum.py)||
+|**Bit Manipulation**|||
+|[Missing number in array ](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1/)|[Python](./GeeksforGeeks/MissingNum.py)||
 
 
 #### Other Code Snippets
