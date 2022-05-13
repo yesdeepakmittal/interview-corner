@@ -156,7 +156,11 @@
 |Gas Station                       |[Python](./otherSnippets/GasStation.py)||
 |Bit Mask                          |[Python](./otherSnippets/BitMask.py)||
 |Modular Operator                  |[Python](./otherSnippets/modular_operator.py)||
-|Single/Unique Number              |[Python](./otherSnippets/SingleNumber.py)||
+|Single Unique Number in array     |[Python](./otherSnippets/SingleNumber.py)||
+|Two Unique Number in array        |[Python](./otherSnippets/TwoUniqueNumbers.py)||
+|Unique Number in a array of k repeat elements|[Python](./otherSnippets/UniqueNumber.py)||
+|Total Set Bits till N             |[Python](./otherSnippets/TotalSetBits.py)||
+|Is it a power of 2?               |[Python](./otherSnippets/Powerof2.py)||
 |Add Binary String                 |[Python](./otherSnippets/AddBinaryString.py)||
 |Number of 1 bits/count set bits   |[Python](./otherSnippets/CountNumberOf1Bits.py)||
 |Single Set bit                    |[Python](./otherSnippets/SingleSetBit.py)||
