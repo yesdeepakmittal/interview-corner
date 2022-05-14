@@ -106,7 +106,8 @@
 |[Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1/)|[Python](./GeeksforGeeks/firstSetBit.py)||
 |[Number of 1 Bits](https://practice.geeksforgeeks.org/problems/set-bits0143/1/)||[Java](./GeeksforGeeks/NumOfSetBits.java)|
 |[Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1/)|[Python](./GeeksforGeeks/firstSetBit.py)||
-
+|[Find position of set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1/)|[Python](./GeeksforGeeks/find_position.py)||
+|[Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1/)|[Python](./GeeksforGeeks/RightmostDifferent.py)||
 
 
 #### Other Code Snippets
