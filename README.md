@@ -101,6 +101,12 @@
 |[maximum sum of i*A[i] ](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1/)|[Python](./GeeksforGeeks/MaxSum.py)||
 |**Bit Manipulation**|||
 |[Missing number in array ](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1/)|[Python](./GeeksforGeeks/MissingNum.py)||
+|[Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1/)|[Python](./otherSnippets/Powerof2.py)||
+|[Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1/)|[Python](./GeeksforGeeks/checkSetBit.py)||
+|[Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1/)|[Python](./GeeksforGeeks/firstSetBit.py)||
+|[Number of 1 Bits](https://practice.geeksforgeeks.org/problems/set-bits0143/1/)||[Java](./GeeksforGeeks/NumOfSetBits.java)|
+|[Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1/)|[Python](./GeeksforGeeks/firstSetBit.py)||
+
 
 
 #### Other Code Snippets
