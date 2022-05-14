@@ -42,6 +42,7 @@
 |[0167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](./Leetcode/Leet0167.py)||
 |[0169. Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./Leetcode/Leet0169.py)||
 |[0189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Leetcode/Leet0189.py)|[Javaj](./Leetcode/Leet0189.java)|
+|[0191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](./Leetcode/Leet0191.py)||
 |[0217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Leetcode/Leet0217.py)||
 |[0344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Leetcode/Leet0344.py)||
 |[0566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](./Leetcode/Leet0566.py)||
@@ -108,6 +109,7 @@
 |[Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1/)|[Python](./GeeksforGeeks/firstSetBit.py)||
 |[Find position of set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1/)|[Python](./GeeksforGeeks/find_position.py)||
 |[Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1/)|[Python](./GeeksforGeeks/RightmostDifferent.py)||
+|[Set kth bit](https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1/)|[Python](./GeeksforGeeks/setKthBit.py)||
 
 
 #### Other Code Snippets
