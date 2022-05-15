@@ -110,6 +110,8 @@
 |[Find position of set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1/)|[Python](./GeeksforGeeks/find_position.py)||
 |[Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1/)|[Python](./GeeksforGeeks/RightmostDifferent.py)||
 |[Set kth bit](https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1/)|[Python](./GeeksforGeeks/setKthBit.py)||
+|[1's Complement](https://practice.geeksforgeeks.org/problems/1s-complement2819/1/)|[Python](./GeeksforGeeks/OnesComplement.py)||
+|[XOR of all elements](https://practice.geeksforgeeks.org/problems/xor-of-all-elements0736/1/)|[Python](./GeeksforGeeks/xorAllElements.py)||
 
 
 #### Other Code Snippets
