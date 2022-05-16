@@ -114,12 +114,14 @@
 |[XOR of all elements](https://practice.geeksforgeeks.org/problems/xor-of-all-elements0736/1/)|[Python](./GeeksforGeeks/xorAllElements.py)||
 |[Game with nos](https://practice.geeksforgeeks.org/problems/game-with-nos3123/1/)||[Java](./GeeksforGeeks/GameWithNumbers.java)|
 |[Play With OR](https://practice.geeksforgeeks.org/problems/play-with-or5515/1/)||[Java](./GeeksforGeeks/PlayWithOR.java)|
+|[Xoring and Clearing - Java](https://practice.geeksforgeeks.org/problems/xoring-and-clearing-java/1/)||[Java](./GeeksforGeeks/XORing.java)|
 |[Number is sparse or not](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1/)|[Python](./GeeksforGeeks/NumIsSparse.py)||
 |[Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1/)|[Python](./GeeksforGeeks/LongestConsecutive1.py)||
 |[Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1/)|[Python](./GeeksforGeeks/SwapOddEven.py)||
 |[Midori and chocolates](https://practice.geeksforgeeks.org/problems/midori-and-chocolates2438/1/)|[Python](./GeeksforGeeks/Midori.py)||
 |[Binary Shift to Divide](https://practice.geeksforgeeks.org/problems/find-out-the-team0025/1/)|[Python](./GeeksforGeeks/BinaryShiftDivide.py)||
 |[Equal Sum and XOR](https://practice.geeksforgeeks.org/problems/equal-sum-and-xor/1/)|[Python](./GeeksforGeeks/EqualSumXOR.py)||
+|[Reverse Bits](https://practice.geeksforgeeks.org/problems/reverse-bits3556/1/)|[Python](./GeeksforGeeks/ReverseBits.py)||
 
 
 
