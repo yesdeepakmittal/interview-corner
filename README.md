@@ -126,6 +126,7 @@
 |[Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1/)|[Python](./GeeksforGeeks/TwoArrays.py)||
 |[Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1/)|[Python](./GeeksforGeeks/Union.py)||
 |[Search an Element in an array](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1/)|[Python](./GeeksforGeeks/Search.py)||
+|[Product of array elements](https://practice.geeksforgeeks.org/problems/product-of-array-element/1/)|[Python](./GeeksforGeeks/Product.py)||
 
 
 
