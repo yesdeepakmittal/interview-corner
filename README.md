@@ -122,6 +122,8 @@
 |[Binary Shift to Divide](https://practice.geeksforgeeks.org/problems/find-out-the-team0025/1/)|[Python](./GeeksforGeeks/BinaryShiftDivide.py)||
 |[Equal Sum and XOR](https://practice.geeksforgeeks.org/problems/equal-sum-and-xor/1/)|[Python](./GeeksforGeeks/EqualSumXOR.py)||
 |[Reverse Bits](https://practice.geeksforgeeks.org/problems/reverse-bits3556/1/)|[Python](./GeeksforGeeks/ReverseBits.py)||
+|**Arrays**|||
+|[Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1/)|[Python](./GeeksforGeeks/TwoArrays.py)||
 
 
 
@@ -223,3 +225,4 @@
 |Distinct elements in window size K|[Python](./otherSnippets/KWindow.py)||
 |Valid Parenthesis                 |[Python](./otherSnippets/ValidParenthesis.py)||
 |Valid Sudoku                      |[Python](./otherSnippets/ValidSudoku.py)||
+|Cosine Similarity b/t documents   |[Python](./otherSnippets/CosineSimilarity.py)||
