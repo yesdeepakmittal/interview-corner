@@ -44,6 +44,7 @@
 |[0189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Leetcode/Leet0189.py)|[Javaj](./Leetcode/Leet0189.java)|
 |[0191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](./Leetcode/Leet0191.py)||
 |[0217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Leetcode/Leet0217.py)||
+|[0338. Counting Bits](https://leetcode.com/problems/counting-bits/)|[Python](./Leetcode/Leet0338.py)||
 |[0344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Python](./Leetcode/Leet0344.py)||
 |[0566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[Python](./Leetcode/Leet0566.py)||
 |[0724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)|[Python](./Leetcode/Leet0724.py)||
@@ -53,6 +54,7 @@
 |[0852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)||[Java](./Leetcode/Leet0852.java)|
 |[0867. ]()|[Python](./Leetcode/Leet0867.py)|[Java](./Leetcode/Leet0867.java)|
 |[0989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[Python](./Leetcode/Leet0989.py)||
+|[1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Python](./Leetcode/Leet1009.py)||
 |[1095. Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)|[Python](./Leetcode/Leet1095.py)|[Java](./Leetcode/Leet1095.java)|
 |[1252. Cells with Odd Values in a Matrix]()|[Python](./Leetcode/Leet1252.py)||
 |[1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)||[Java](./Leetcode/Leet0154.java)|
@@ -124,6 +126,7 @@
 |[Equal Sum and XOR](https://practice.geeksforgeeks.org/problems/equal-sum-and-xor/1/)|[Python](./GeeksforGeeks/EqualSumXOR.py)||
 |[Reverse Bits](https://practice.geeksforgeeks.org/problems/reverse-bits3556/1/)|[Python](./GeeksforGeeks/ReverseBits.py)||
 |[Check Set Bits](https://practice.geeksforgeeks.org/problems/check-set-bits5408/1/)|[Python](./GeeksforGeeks/CheckSetBits.py)||
+|[Rotate Bits](https://practice.geeksforgeeks.org/problems/rotate-bits4524/1/)|[Python](./GeeksforGeeks/RotateBits.py)||
 |**Arrays**|||
 |[Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1/)|[Python](./GeeksforGeeks/TwoArrays.py)||
 |[Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1/)|[Python](./GeeksforGeeks/Union.py)||
