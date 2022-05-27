@@ -42,6 +42,7 @@
 |[0167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](./Leetcode/Leet0167.py)||
 |[0169. Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./Leetcode/Leet0169.py)||
 |[0189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Leetcode/Leet0189.py)|[Javaj](./Leetcode/Leet0189.java)|
+|[0190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](./Leetcode/Leet0190.py)||
 |[0191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](./Leetcode/Leet0191.py)||
 |[0217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Python](./Leetcode/Leet0217.py)||
 |[0338. Counting Bits](https://leetcode.com/problems/counting-bits/)|[Python](./Leetcode/Leet0338.py)||
@@ -98,10 +99,15 @@
 |[K subarray Sum](https://practice.geeksforgeeks.org/problems/k-subarray-sum/0/)|[Python](./GeeksforGeeks/KSubarraySum.py)||
 |[Geek and his Marks](https://practice.geeksforgeeks.org/problems/geek-and-his-marks-1611824243/0/)|[Python](./GeeksforGeeks/GeekMarks.py)||
 |[K Frequency](https://practice.geeksforgeeks.org/problems/kth-frequency-1611823641/0/)|[Python](./GeeksforGeeks/KFrequency.py)||
-|**Array**|||
+|**Arrays**|||
 |[Maximum occured integer](https://practice.geeksforgeeks.org/problems/maximum-occured-integer4602/1/)|[Python](./GeeksforGeeks/MaxOccured.py)||
 |[Case-specific Sorting of Strings](https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1/)|[Python](./GeeksforGeeks/CaseSpecificSorting.py)||
 |[maximum sum of i*A[i] ](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1/)|[Python](./GeeksforGeeks/MaxSum.py)||
+|[Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1/)|[Python](./GeeksforGeeks/TwoArrays.py)||
+|[Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1/)|[Python](./GeeksforGeeks/Union.py)||
+|[Search an Element in an array](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1/)|[Python](./GeeksforGeeks/Search.py)||
+|[Product of array elements](https://practice.geeksforgeeks.org/problems/product-of-array-element/1/)|[Python](./GeeksforGeeks/Product.py)||
+|[Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)|[Python](./GeeksforGeeks/Merge.py)||
 |**Bit Manipulation**|||
 |[Missing number in array ](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1/)|[Python](./GeeksforGeeks/MissingNum.py)||
 |[Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1/)|[Python](./otherSnippets/Powerof2.py)||
@@ -127,13 +133,7 @@
 |[Reverse Bits](https://practice.geeksforgeeks.org/problems/reverse-bits3556/1/)|[Python](./GeeksforGeeks/ReverseBits.py)||
 |[Check Set Bits](https://practice.geeksforgeeks.org/problems/check-set-bits5408/1/)|[Python](./GeeksforGeeks/CheckSetBits.py)||
 |[Rotate Bits](https://practice.geeksforgeeks.org/problems/rotate-bits4524/1/)|[Python](./GeeksforGeeks/RotateBits.py)||
-|**Arrays**|||
-|[Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1/)|[Python](./GeeksforGeeks/TwoArrays.py)||
-|[Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1/)|[Python](./GeeksforGeeks/Union.py)||
-|[Search an Element in an array](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1/)|[Python](./GeeksforGeeks/Search.py)||
-|[Product of array elements](https://practice.geeksforgeeks.org/problems/product-of-array-element/1/)|[Python](./GeeksforGeeks/Product.py)||
-|[Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)|[Python](./GeeksforGeeks/Merge.py)||
-
+|[Non Repeating Numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1#)|[Python](./GeeksforGeeks/NonRepeatingNumber.py)||
 
 
 
