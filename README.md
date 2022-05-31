@@ -134,6 +134,9 @@
 |[Check Set Bits](https://practice.geeksforgeeks.org/problems/check-set-bits5408/1/)|[Python](./GeeksforGeeks/CheckSetBits.py)||
 |[Rotate Bits](https://practice.geeksforgeeks.org/problems/rotate-bits4524/1/)|[Python](./GeeksforGeeks/RotateBits.py)||
 |[Non Repeating Numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1#)|[Python](./GeeksforGeeks/NonRepeatingNumber.py)||
+|[Replace the Bit](https://practice.geeksforgeeks.org/problems/replace-the-bit3212/1/)|[Python](./GeeksforGeeks/ReplaceBits.py)||
+|[Change all even bits in a number to 0](https://practice.geeksforgeeks.org/problems/change-all-even-bits-in-a-number-to-03253/1/)|[Python](./GeeksforGeeks/ChangeBit.py)||
+|[Exceptionally odd](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence4820/1/)||[C++](./GeeksforGeeks/ExceptionallyOdd.cpp)|
 
 
 
@@ -142,6 +145,7 @@
 |----------------------------------|-------|-------|
 |Armstrong                         ||[Java](./otherSnippets/Armstrong.java)|
 |Nearest multiple of 2 to given No.|[Python](./otherSnippets/NearestMultiple2.py)||
+|Binary Search                     |[Python](./otherSnippets/BinarySearch.py)||
 |Decimal to Binary                 |[Python](./otherSnippets/DecimalToBinary.py)||
 |Combination of 2 number           |[Python](./otherSnippets/combination2Num.py)||
 |Digit Length                      ||[Java](./otherSnippets/DigitLength.java)|
