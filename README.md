@@ -89,54 +89,56 @@
 
 
 #### GeeksforGeeks
-|         Problems                 | Python|  Java |
-|----------------------------------|-------|-------|
-|[Reverse words in a given string ](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1/)|[Python](./GeeksforGeeks/ReverseString.py)||
-|[Peak Element](https://practice.geeksforgeeks.org/problems/peak-element/1#)|[Python](./GeeksforGeeks/PeakElement.py)||
-|[Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1#)|[Python](./GeeksforGeeks/PeakElement.py)||
-|[String Ignorance](https://practice.geeksforgeeks.org/problems/string-ignorance/0/)|[Python](./GeeksforGeeks/StringIgnorance.py)||
-|[Winner of Election](https://practice.geeksforgeeks.org/problems/winner-of-an-election/0/)|[Python](./GeeksforGeeks/WinnerElection.py)||
-|[K subarray Sum](https://practice.geeksforgeeks.org/problems/k-subarray-sum/0/)|[Python](./GeeksforGeeks/KSubarraySum.py)||
-|[Geek and his Marks](https://practice.geeksforgeeks.org/problems/geek-and-his-marks-1611824243/0/)|[Python](./GeeksforGeeks/GeekMarks.py)||
-|[K Frequency](https://practice.geeksforgeeks.org/problems/kth-frequency-1611823641/0/)|[Python](./GeeksforGeeks/KFrequency.py)||
+|         Problems                 | Python|  Java |Type|
+|----------------------------------|-------|-------|----|
+|[Reverse words in a given string ](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1/)|[Python](./GeeksforGeeks/ReverseString.py)||String|
+|[Peak Element](https://practice.geeksforgeeks.org/problems/peak-element/1#)|[Python](./GeeksforGeeks/PeakElement.py)|||
+|[Sort an array of 0s, 1s and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1#)|[Python](./GeeksforGeeks/PeakElement.py)||Array|
+|[String Ignorance](https://practice.geeksforgeeks.org/problems/string-ignorance/0/)|[Python](./GeeksforGeeks/StringIgnorance.py)|||
+|[Winner of Election](https://practice.geeksforgeeks.org/problems/winner-of-an-election/0/)|[Python](./GeeksforGeeks/WinnerElection.py)|||
+|[K subarray Sum](https://practice.geeksforgeeks.org/problems/k-subarray-sum/0/)|[Python](./GeeksforGeeks/KSubarraySum.py)||Array|
+|[Geek and his Marks](https://practice.geeksforgeeks.org/problems/geek-and-his-marks-1611824243/0/)|[Python](./GeeksforGeeks/GeekMarks.py)|||
+|[K Frequency](https://practice.geeksforgeeks.org/problems/kth-frequency-1611823641/0/)|[Python](./GeeksforGeeks/KFrequency.py)|||
 |**Arrays**|||
-|[Maximum occured integer](https://practice.geeksforgeeks.org/problems/maximum-occured-integer4602/1/)|[Python](./GeeksforGeeks/MaxOccured.py)||
-|[Case-specific Sorting of Strings](https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1/)|[Python](./GeeksforGeeks/CaseSpecificSorting.py)||
-|[maximum sum of i*A[i] ](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1/)|[Python](./GeeksforGeeks/MaxSum.py)||
-|[Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1/)|[Python](./GeeksforGeeks/TwoArrays.py)||
-|[Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1/)|[Python](./GeeksforGeeks/Union.py)||
-|[Search an Element in an array](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1/)|[Python](./GeeksforGeeks/Search.py)||
-|[Product of array elements](https://practice.geeksforgeeks.org/problems/product-of-array-element/1/)|[Python](./GeeksforGeeks/Product.py)||
-|[Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)|[Python](./GeeksforGeeks/Merge.py)||
-|**Bit Manipulation**|||
-|[Missing number in array ](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1/)|[Python](./GeeksforGeeks/MissingNum.py)||
-|[Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1/)|[Python](./otherSnippets/Powerof2.py)||
-|[Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1/)|[Python](./GeeksforGeeks/checkSetBit.py)||
-|[Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1/)|[Python](./GeeksforGeeks/firstSetBit.py)||
-|[Number of 1 Bits](https://practice.geeksforgeeks.org/problems/set-bits0143/1/)||[Java](./GeeksforGeeks/NumOfSetBits.java)|
-|[Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1/)|[Python](./GeeksforGeeks/firstSetBit.py)||
-|[Find position of set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1/)|[Python](./GeeksforGeeks/find_position.py)||
-|[Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1/)|[Python](./GeeksforGeeks/RightmostDifferent.py)||
-|[Set kth bit](https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1/)|[Python](./GeeksforGeeks/setKthBit.py)||
-|[1's Complement](https://practice.geeksforgeeks.org/problems/1s-complement2819/1/)|[Python](./GeeksforGeeks/OnesComplement.py)||
-|[XOR of all elements](https://practice.geeksforgeeks.org/problems/xor-of-all-elements0736/1/)|[Python](./GeeksforGeeks/xorAllElements.py)||
-|[Game with nos](https://practice.geeksforgeeks.org/problems/game-with-nos3123/1/)||[Java](./GeeksforGeeks/GameWithNumbers.java)|
-|[Play With OR](https://practice.geeksforgeeks.org/problems/play-with-or5515/1/)||[Java](./GeeksforGeeks/PlayWithOR.java)|
-|[Xoring and Clearing - Java](https://practice.geeksforgeeks.org/problems/xoring-and-clearing-java/1/)||[Java](./GeeksforGeeks/XORing.java)|
-|[Segregate 0s and 1s](https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1/)||[Java](./GeeksforGeeks/Segrate01.java)|
-|[Number is sparse or not](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1/)|[Python](./GeeksforGeeks/NumIsSparse.py)||
-|[Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1/)|[Python](./GeeksforGeeks/LongestConsecutive1.py)||
-|[Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1/)|[Python](./GeeksforGeeks/SwapOddEven.py)||
-|[Midori and chocolates](https://practice.geeksforgeeks.org/problems/midori-and-chocolates2438/1/)|[Python](./GeeksforGeeks/Midori.py)||
-|[Binary Shift to Divide](https://practice.geeksforgeeks.org/problems/find-out-the-team0025/1/)|[Python](./GeeksforGeeks/BinaryShiftDivide.py)||
-|[Equal Sum and XOR](https://practice.geeksforgeeks.org/problems/equal-sum-and-xor/1/)|[Python](./GeeksforGeeks/EqualSumXOR.py)||
-|[Reverse Bits](https://practice.geeksforgeeks.org/problems/reverse-bits3556/1/)|[Python](./GeeksforGeeks/ReverseBits.py)||
-|[Check Set Bits](https://practice.geeksforgeeks.org/problems/check-set-bits5408/1/)|[Python](./GeeksforGeeks/CheckSetBits.py)||
-|[Rotate Bits](https://practice.geeksforgeeks.org/problems/rotate-bits4524/1/)|[Python](./GeeksforGeeks/RotateBits.py)||
-|[Non Repeating Numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1#)|[Python](./GeeksforGeeks/NonRepeatingNumber.py)||
-|[Replace the Bit](https://practice.geeksforgeeks.org/problems/replace-the-bit3212/1/)|[Python](./GeeksforGeeks/ReplaceBits.py)||
-|[Change all even bits in a number to 0](https://practice.geeksforgeeks.org/problems/change-all-even-bits-in-a-number-to-03253/1/)|[Python](./GeeksforGeeks/ChangeBit.py)||
-|[Exceptionally odd](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence4820/1/)||[C++](./GeeksforGeeks/ExceptionallyOdd.cpp)|
+|[Maximum occured integer](https://practice.geeksforgeeks.org/problems/maximum-occured-integer4602/1/)|[Python](./GeeksforGeeks/MaxOccured.py)||Array|
+|[Case-specific Sorting of Strings](https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1/)|[Python](./GeeksforGeeks/CaseSpecificSorting.py)||Array|
+|[maximum sum of i*A[i] ](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1/)|[Python](./GeeksforGeeks/MaxSum.py)||Array|
+|[Check if two arrays are equal or not](https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1/)|[Python](./GeeksforGeeks/TwoArrays.py)||Array|
+|[Union of two arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1/)|[Python](./GeeksforGeeks/Union.py)||Array|
+|[Search an Element in an array](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1/)|[Python](./GeeksforGeeks/Search.py)||Array|
+|[Product of array elements](https://practice.geeksforgeeks.org/problems/product-of-array-element/1/)|[Python](./GeeksforGeeks/Product.py)||Array|
+|[Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)|[Python](./GeeksforGeeks/Merge.py)||Array|
+|**Bit Manipulation**||||
+|[Missing number in array ](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1/)|[Python](./GeeksforGeeks/MissingNum.py)||Bits|
+|[Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1/)|[Python](./otherSnippets/Powerof2.py)||Bits|
+|[Check whether K-th bit is set or not](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1/)|[Python](./GeeksforGeeks/checkSetBit.py)||Bits|
+|[Find first set bit](https://practice.geeksforgeeks.org/problems/find-first-set-bit-1587115620/1/)|[Python](./GeeksforGeeks/firstSetBit.py)||Bits|
+|[Number of 1 Bits](https://practice.geeksforgeeks.org/problems/set-bits0143/1/)||[Java](./GeeksforGeeks/NumOfSetBits.java)|Bits|
+|[Bit Difference](https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/1/)|[Python](./GeeksforGeeks/firstSetBit.py)||Bits|
+|[Find position of set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1/)|[Python](./GeeksforGeeks/find_position.py)||Bits|
+|[Rightmost different bit](https://practice.geeksforgeeks.org/problems/rightmost-different-bit-1587115621/1/)|[Python](./GeeksforGeeks/RightmostDifferent.py)||Bits|
+|[Set kth bit](https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1/)|[Python](./GeeksforGeeks/setKthBit.py)||Bits|
+|[1's Complement](https://practice.geeksforgeeks.org/problems/1s-complement2819/1/)|[Python](./GeeksforGeeks/OnesComplement.py)||Bits|
+|[XOR of all elements](https://practice.geeksforgeeks.org/problems/xor-of-all-elements0736/1/)|[Python](./GeeksforGeeks/xorAllElements.py)||Bits|
+|[Game with nos](https://practice.geeksforgeeks.org/problems/game-with-nos3123/1/)||[Java](./GeeksforGeeks/GameWithNumbers.java)|Bits|
+|[Play With OR](https://practice.geeksforgeeks.org/problems/play-with-or5515/1/)||[Java](./GeeksforGeeks/PlayWithOR.java)|Bits|
+|[Xoring and Clearing - Java](https://practice.geeksforgeeks.org/problems/xoring-and-clearing-java/1/)||[Java](./GeeksforGeeks/XORing.java)|Bits|
+|[Segregate 0s and 1s](https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1/)||[Java](./GeeksforGeeks/Segrate01.java)|Bits|
+|[Number is sparse or not](https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1/)|[Python](./GeeksforGeeks/NumIsSparse.py)||Bits|
+|[Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1/)|[Python](./GeeksforGeeks/LongestConsecutive1.py)||Bits|
+|[Swap all odd and even bits](https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1/)|[Python](./GeeksforGeeks/SwapOddEven.py)||Bits|
+|[Midori and chocolates](https://practice.geeksforgeeks.org/problems/midori-and-chocolates2438/1/)|[Python](./GeeksforGeeks/Midori.py)||Bits|
+|[Binary Shift to Divide](https://practice.geeksforgeeks.org/problems/find-out-the-team0025/1/)|[Python](./GeeksforGeeks/BinaryShiftDivide.py)||Bits|
+|[Equal Sum and XOR](https://practice.geeksforgeeks.org/problems/equal-sum-and-xor/1/)|[Python](./GeeksforGeeks/EqualSumXOR.py)||Bits|
+|[Reverse Bits](https://practice.geeksforgeeks.org/problems/reverse-bits3556/1/)|[Python](./GeeksforGeeks/ReverseBits.py)||Bits|
+|[Check Set Bits](https://practice.geeksforgeeks.org/problems/check-set-bits5408/1/)|[Python](./GeeksforGeeks/CheckSetBits.py)||Bits|
+|[Rotate Bits](https://practice.geeksforgeeks.org/problems/rotate-bits4524/1/)|[Python](./GeeksforGeeks/RotateBits.py)||Bits|
+|[Non Repeating Numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1#)|[Python](./GeeksforGeeks/NonRepeatingNumber.py)||Bits|
+|[Replace the Bit](https://practice.geeksforgeeks.org/problems/replace-the-bit3212/1/)|[Python](./GeeksforGeeks/ReplaceBits.py)||Bits|
+|[Change all even bits in a number to 0](https://practice.geeksforgeeks.org/problems/change-all-even-bits-in-a-number-to-03253/1/)|[Python](./GeeksforGeeks/ChangeBit.py)||Bits|
+|[Exceptionally odd](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence4820/1/)||[C++](./GeeksforGeeks/ExceptionallyOdd.cpp)|Bits|
+|[Swap two nibbles in a byte](https://practice.geeksforgeeks.org/problems/swap-two-nibbles-in-a-byte0446/1/)|[Python](./GeeksforGeeks/SwapNibbles.py)||Bits|
+|[Square root of a number](https://practice.geeksforgeeks.org/problems/square-root/1/)|[Python](./GeeksforGeeks/SquareRoot.py)||Binary Search|
 
 
 
