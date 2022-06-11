@@ -109,6 +109,9 @@
 |[Product of array elements](https://practice.geeksforgeeks.org/problems/product-of-array-element/1/)|[Python](./GeeksforGeeks/Product.py)||Array|
 |[Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)|[Python](./GeeksforGeeks/Merge.py)||Array|
 |[Missing number](https://practice.geeksforgeeks.org/problems/missing-number4257/1/)|[Python](./GeeksforGeeks/MissingNumber.py)||Array|
+|[Maximum repeating number](https://practice.geeksforgeeks.org/problems/maximum-repeating-number4858/1/)|[Python](./GeeksforGeeks/MaxRepeatNumber.py)||Array|
+|[Total count](https://practice.geeksforgeeks.org/problems/total-count2415/1/)||[Java](./GeeksforGeeks/TotalCount.java)|Array|
+|[Find the fine](https://practice.geeksforgeeks.org/problems/find-the-fine4353/1/)||[Java](./GeeksforGeeks/FindFine.java)|Array|
 |**Bit Manipulation**||||
 |[Missing number in array ](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1/)|[Python](./GeeksforGeeks/MissingNum.py)||Bits|
 |[Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1/)|[Python](./otherSnippets/Powerof2.py)||Bits|
