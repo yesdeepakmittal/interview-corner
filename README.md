@@ -108,6 +108,7 @@
 |[Search an Element in an array](https://practice.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1/)|[Python](./GeeksforGeeks/Search.py)||Array|
 |[Product of array elements](https://practice.geeksforgeeks.org/problems/product-of-array-element/1/)|[Python](./GeeksforGeeks/Product.py)||Array|
 |[Merge Without Extra Space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)|[Python](./GeeksforGeeks/Merge.py)||Array|
+|[Missing number](https://practice.geeksforgeeks.org/problems/missing-number4257/1/)|[Python](./GeeksforGeeks/MissingNumber.py)||Array|
 |**Bit Manipulation**||||
 |[Missing number in array ](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1/)|[Python](./GeeksforGeeks/MissingNum.py)||Bits|
 |[Power of 2](https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1/)|[Python](./otherSnippets/Powerof2.py)||Bits|
