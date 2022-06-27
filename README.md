@@ -152,6 +152,7 @@
 |Armstrong                         ||[Java](./otherSnippets/Armstrong.java)|
 |Nearest multiple of 2 to given No.|[Python](./otherSnippets/NearestMultiple2.py)||
 |Binary Search                     |[Python](./otherSnippets/BinarySearch.py)||
+|Interpolation Search              |[Python](./otherSnippets/InterpolationSearch.py)||
 |Ceiling of Number(Binary Search)  |[Python](./otherSnippets/CeilingOfNumber.py)||
 |Decimal to Binary                 |[Python](./otherSnippets/DecimalToBinary.py)||
 |Combination of 2 number           |[Python](./otherSnippets/combination2Num.py)||
