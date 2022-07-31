@@ -42,6 +42,7 @@
 |[0167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Python](./Leetcode/Leet0167.py)||
 |[0169. Majority Element](https://leetcode.com/problems/majority-element/)|[Python](./Leetcode/Leet0169.py)||
 |[0175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[MS SQL](./Leetcode/Leet0175.sql)||
+|[0176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[MS SQL](./Leetcode/Leet0176.sql)||
 |[0189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Python](./Leetcode/Leet0189.py)|[Javaj](./Leetcode/Leet0189.java)|
 |[0190. Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[Python](./Leetcode/Leet0190.py)||
 |[0191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[Python](./Leetcode/Leet0191.py)||
