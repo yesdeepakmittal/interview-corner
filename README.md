@@ -153,6 +153,7 @@
 |         Problems                 | Python|  Java |
 |----------------------------------|-------|-------|
 |Armstrong                         ||[Java](./otherSnippets/Armstrong.java)|
+|Patterns                          ||[Java](./otherSnippets/pattern.java)|
 |Nearest multiple of 2 to given No.|[Python](./otherSnippets/NearestMultiple2.py)||
 |TernarySearch                     |[Python](./otherSnippets/TernarySearch.py)||
 |Binary Search                     |[Python](./otherSnippets/BinarySearch.py)||
