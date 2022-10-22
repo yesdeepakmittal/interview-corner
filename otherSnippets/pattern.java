@@ -251,8 +251,14 @@ public class pattern {
 
     static void pattern10(int n){
         /* Butterfly Pattern
-         * 
-         * 
+          
+          *    *
+          **  **
+          ******
+          ******
+          **  **
+          *    *
+          
          */
 
          int n2 = n % 2 > 0 ? n/2 + 1 : n / 2;
@@ -276,10 +282,71 @@ public class pattern {
             }
             for (int col = (n - n2 - row); col > 0; col--) {
                 System.out.print("  ");
-            }for (int col = row; col > 0 ; col--) {
+            }
+            for (int col = row; col > 0 ; col--) {
                 System.out.print("*");
             }
             System.out.println();
          }
     }
+
+    static void pattern11(int n){
+        /* Solid Rhombus
+          
+              ******
+             ******
+            ******
+           ******
+          ******
+         ******
+          
+        */
+
+        for (int row = 1; row <= n; row++) {
+            //spaces
+            for (int col = n - row; col > 0; col--) {
+                System.out.print(" ");
+            }
+            // solid rhombus stars print krne hai
+            for (int col = 1; col <= n; col++) {
+                System.out.print("*");
+            }System.out.println();
+        }
+    }
+
+    static void pattern12(int n){
+        /*  Hollow rhombus
+
+             ******
+            *    *
+           *    *
+          *    *
+         *    *
+        ******
+
+        */
+
+        for (int row = 1; row <= n; row++) {
+            for (int col = (n - row); col > 0; col--) {
+                System.out.print(" ");
+            }
+            for (int col = 1; col <= n; col++) {
+                // Agar boudary ho to * nhi to white space - same as hollow rectangle
+                if(col == 1 || col == n || row == 1 || row == n){
+                System.out.print("*");
+                }
+                else{
+                    System.out.print(" ");
+                }
+            }
+            System.out.println();
+        }
+    }
+
+    static void pattern13(int n){
+        for (int i = 0; i < n; i++) {
+            
+        }
+    }
+
 }
