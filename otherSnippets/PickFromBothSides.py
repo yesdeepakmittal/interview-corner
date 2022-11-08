@@ -64,3 +64,26 @@ Output
 8
 8
 '''
+
+
+
+
+
+class Solution:
+    def solve(self, arr, k):
+        pf = [0]*(len(arr) + 1)
+        sf = [0]*(len(arr) + 1)
+        maxSum = float('-inf')
+
+        for i in range(len(arr)):
+            pf[i+1] = pf[i] + arr[i]
+        
+        for i in range(len(arr) - 1, -1, -1):
+            sf[i] = sf[i+1] + arr[i]
+        
+        for i in range(0,k+1):
+            s = pf[i] + sf[-(k+1) + i]
+        
+            if s > maxSum:
+                maxSum = s
+        return maxSum
