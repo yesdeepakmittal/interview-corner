@@ -174,9 +174,9 @@
 |Equilibrium Index                 |[Python](./otherSnippets/EquilibriumIndex.py)||Array|
 |Pick From Both Sides(prefix sum)  |[Python](./otherSnippets/PickFromBothSides.py)||Array|
 |Count ways to make sum of odd and even indexed elements equal by removing an array element||[Python](./otherSnippets/CountWays.py)||Array|
-|Leader Element in array           |[Python](./otherSnippets/Leader.py)|||
-|Even Odd Element Range Sum        |[Python](./otherSnippets/EvenOddRangeSum.py)|||
-|AG pattern Carry Forward          |[Python](./otherSnippets/AGpattern_CarryForward.py)|||
+|Leader Element in array           |[Python](./otherSnippets/Leader.py)||Array|
+|Even Odd Element Range Sum        |[Python](./otherSnippets/EvenOddRangeSum.py)||Array|
+|AG pattern Carry Forward          |[Python](./otherSnippets/AGpattern_CarryForward.py)||Array|
 |Maximum Sum of Subarray           |[Python](./otherSnippets/MaximumSumSubarray.py)|||
 |Maximum Sum of Subarray of length k|[Python](./otherSnippets/MaximumSumSubarrayOfLengthK.py)|| |
 |End Index of Subarrays of length k|[Python](./otherSnippets/EndIndexOfArrayOfLengthK.py)|| |
