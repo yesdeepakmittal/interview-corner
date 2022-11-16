@@ -214,7 +214,7 @@
 |Is it a power of 2?               |[Python](./otherSnippets/Powerof2.py)|||
 |Add Binary String                 |[Python](./otherSnippets/AddBinaryString.py)|||
 |Number of 1 bits/count set bits   |[Python](./otherSnippets/CountNumberOf1Bits.py)|||
-|Single Set bit                    |[Python](./otherSnippets/SingleSetBit.py)|||
+|Single Set bit                    |[Python](./otherSnippets/SingleSetBit.py)||Bits|
 |Reverse bits                      |[Python](./otherSnippets/ReverseBit.py)|||
 |Maximum &(bitwise) product of 4 number|[Python](./otherSnippets/MaximumANDproduct.py)|||
 |Pairs With Given Xor              |[Python](./otherSnippets/PairsXOR.py)|||
@@ -253,3 +253,4 @@
 |Valid Parenthesis                 |[Python](./otherSnippets/ValidParenthesis.py)|||
 |Valid Sudoku                      |[Python](./otherSnippets/ValidSudoku.py)|||
 |Cosine Similarity b/t documents   |[Python](./otherSnippets/CosineSimilarity.py)|||
+|Sorting                           |[Python](./otherSnippets/Sorting.py)||Sorting|
