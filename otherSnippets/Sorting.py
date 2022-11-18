@@ -55,5 +55,24 @@ def insertion_sort(array):
 
     return arr
 
-ans = insertion_sort(arr)
+def counting_sort(array):
+    arr = array.copy()
+
+    ans = [0]*(max(arr) + 1)
+
+    for i in arr:
+        ans[i] += 1
+
+    idx = 0
+    for i in range(len(ans)):
+        while ans[i] > 0:
+            arr[idx] = i
+            ans[i] -= 1
+            idx += 1
+    
+    return arr
+
+
+
+ans = counting_sort(arr)
 print(ans)
