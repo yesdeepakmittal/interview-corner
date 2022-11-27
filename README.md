@@ -146,6 +146,7 @@
 |[Swap two nibbles in a byte](https://practice.geeksforgeeks.org/problems/swap-two-nibbles-in-a-byte0446/1/)|[Python](./GeeksforGeeks/SwapNibbles.py)||Bits|
 |[Square root of a number](https://practice.geeksforgeeks.org/problems/square-root/1/)|[Python](./GeeksforGeeks/SquareRoot.py)||Binary Search|
 |[Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/0/)|[Python](./GeeksforGeeks/LeaderArray.py)||Array|
+|[Move all zeroes to end of array](https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)|[Python](./GeeksforGeeks/move_all_zeros.py)||Array|
 
 
 
