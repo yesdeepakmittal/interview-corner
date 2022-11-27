@@ -147,6 +147,7 @@
 |[Square root of a number](https://practice.geeksforgeeks.org/problems/square-root/1/)|[Python](./GeeksforGeeks/SquareRoot.py)||Binary Search|
 |[Leaders in an array](https://practice.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/0/)|[Python](./GeeksforGeeks/LeaderArray.py)||Array|
 |[Move all zeroes to end of array](https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)|[Python](./GeeksforGeeks/move_all_zeros.py)||Array|
+|[Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)|[Python](./GeeksforGeeks/count_pairs.py)||Array|
 
 
 
@@ -164,12 +165,12 @@
 |Decimal to Binary                 |[Python](./otherSnippets/DecimalToBinary.py)|||
 |Combination of 2 number           |[Python](./otherSnippets/combination2Num.py)|||
 |Digit Length                      ||[Java](./otherSnippets/DigitLength.java)||
-|LCM GCD                           |[Python](./otherSnippets/LcmGcd.py)|[Java](./otherSnippets|/LcmGcd.java)||
+|LCM GCD                           |[Python](./otherSnippets/LcmGcd.py)|[Java](./otherSnippets/LcmGcd.java)||
 |Largest Coprime Divisor           |[Python](./otherSnippets/LargestCoprime.py)|||
 |Maximum GCD after removing an element from array|[Python](./otherSnippets/MaximumGCD.py)|||
 |All GCD Pairs                     |[Python](./otherSnippets/AllGCD.py)|||
 |Subset of Array                   |[Python](./otherSnippets/SubsetOfArray.py)|||
-|Elements Greater than Itself      |[Python](./otherSnippets/ElementsGreaterThanItself.py)|[Java|](./otherSnippets/ElementsGreaterThanItself.java)||
+|Elements Greater than Itself      |[Python](./otherSnippets/ElementsGreaterThanItself.py)|[Java](./otherSnippets/ElementsGreaterThanItself.java)||
 |Rotate Array                      |[Python](./otherSnippets/RotateArray.py)||Array|
 |RangeSum_PrefixSum                |[Python](./otherSnippets/RangeSum_PrefixSum.py)||Array|
 |Equilibrium Index                 |[Python](./otherSnippets/EquilibriumIndex.py)||Array|
@@ -197,7 +198,7 @@
 |Matrix Scaler Product             |[Python](./otherSnippets/MatrixScalerProduct.py)|||
 |Row to Column Zero                |[Python](./otherSnippets/RowColumnZero.py)|||
 |Are Matrices Same ?               |[Python](./otherSnippets/SameMatrix.py)|||
-|Print Boundaries element clockwise/Spiral Matrix|[Python](./otherSnippets|/PrintBoundariesElement.py)|||
+|Print Boundaries element clockwise/Spiral Matrix|[Python](./otherSnippets/PrintBoundariesElement.py)|||
 |Spiral Matrix 2                   |[Python](./otherSnippets/PrintBoundariesElement2.py)|||
 |Spiral Matrix 3                   |[Python](./otherSnippets/SpiralMatrix3.py)|||
 |Length of longest consecutive ones|[Python](./otherSnippets/LongestConsecutiveLength.py)|||
