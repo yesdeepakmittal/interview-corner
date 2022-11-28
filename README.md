@@ -151,6 +151,7 @@
 |[Move all zeroes to end of array](https://practice.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1)|[Python](./GeeksforGeeks/move_all_zeros.py)||Array|
 |[Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)|[Python](./GeeksforGeeks/count_pairs.py)||Array|
 |[First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1)|[Python](./GeeksforGeeks/first_negative.py)||Array|
+|[Two Repeated Elements](https://practice.geeksforgeeks.org/problems/two-repeated-elements-1587115621/1)|[Python](./GeeksforGeeks/two_repeated.py)||Array|
 
 
 
