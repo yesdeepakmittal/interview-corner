@@ -152,6 +152,7 @@
 |[Count pairs with given sum](https://practice.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1)|[Python](./GeeksforGeeks/count_pairs.py)||Array|
 |[First negative integer in every window of size k](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1)|[Python](./GeeksforGeeks/first_negative.py)||Array|
 |[Two Repeated Elements](https://practice.geeksforgeeks.org/problems/two-repeated-elements-1587115621/1)|[Python](./GeeksforGeeks/two_repeated.py)||Array|
+|[Plus One - Google](https://practice.geeksforgeeks.org/problems/plus-one/1)|[Python](./GeeksforGeeks/plus_one.py)||Array|
 
 
 
