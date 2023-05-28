@@ -164,7 +164,7 @@
 |Nearest multiple of 2 to given No.|[Python](./otherSnippets/NearestMultiple2.py)|||
 |Trapping RainWater                |[Python](./otherSnippets/TrappingRainWater.py)|||
 |TernarySearch                     |[Python](./otherSnippets/TernarySearch.py)|||
-|Binary Search                     |[Python](./otherSnippets/BinarySearch.py)|||
+|Binary Search                     |[Python](./otherSnippets/BinarySearch.py)||Searching|
 |Interpolation Search              |[Python](./otherSnippets/InterpolationSearch.py)|||
 |Ceiling of Number(Binary Search)  |[Python](./otherSnippets/CeilingOfNumber.py)|||
 |Decimal to Binary                 |[Python](./otherSnippets/DecimalToBinary.py)|||
@@ -177,6 +177,9 @@
 |Subset of Array                   |[Python](./otherSnippets/SubsetOfArray.py)|||
 |Elements Greater than Itself      |[Python](./otherSnippets/ElementsGreaterThanItself.py)|[Java](./otherSnippets/ElementsGreaterThanItself.java)||
 |Rotate Array                      |[Python](./otherSnippets/RotateArray.py)||Array|
+|Increasing or Decreasing          |[Python](./otherSnippets/IncreasingOrDecreasing.py)||Array|
+|Immediate Smaller Number          |[Python](./otherSnippets/ImmediateSmallerNumber.py)||Array|
+|Median                            |[Python](./otherSnippets/median.py)||Array|
 |RangeSum_PrefixSum                |[Python](./otherSnippets/RangeSum_PrefixSum.py)||Array|
 |Equilibrium Index                 |[Python](./otherSnippets/EquilibriumIndex.py)||Array|
 |Pick From Both Sides(prefix sum)  |[Python](./otherSnippets/PickFromBothSides.py)||Array|
