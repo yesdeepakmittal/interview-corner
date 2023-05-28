@@ -164,7 +164,7 @@
 |Nearest multiple of 2 to given No.|[Python](./otherSnippets/NearestMultiple2.py)|||
 |Trapping RainWater                |[Python](./otherSnippets/TrappingRainWater.py)|||
 |TernarySearch                     |[Python](./otherSnippets/TernarySearch.py)|||
-|Binary Search                     |[Python](./otherSnippets/BinarySearch.py)|||
+|Binary Search                     |[Python](./otherSnippets/BinarySearch.py)||Searching|
 |Interpolation Search              |[Python](./otherSnippets/InterpolationSearch.py)|||
 |Ceiling of Number(Binary Search)  |[Python](./otherSnippets/CeilingOfNumber.py)|||
 |Decimal to Binary                 |[Python](./otherSnippets/DecimalToBinary.py)|||
