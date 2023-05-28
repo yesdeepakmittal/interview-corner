@@ -264,3 +264,5 @@
 |Valid Sudoku                      |[Python](./otherSnippets/ValidSudoku.py)|||
 |Cosine Similarity b/t documents   |[Python](./otherSnippets/CosineSimilarity.py)|||
 |Sorting                           |[Python](./otherSnippets/Sorting.py)||Sorting|
+
+
