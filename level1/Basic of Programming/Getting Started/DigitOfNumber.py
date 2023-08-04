@@ -1,1 +1,0 @@
-for i in list(input()):  print(int(i))
