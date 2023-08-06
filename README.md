@@ -4,7 +4,7 @@
 |         Problems                 | Python|  Java |Tag|
 |----------------------------------|-------|-------|---|
 |[Largest Element in the Array](https://www.codingninjas.com/studio/problems/largest-element-in-the-array-largest-element-in-the-array_5026279)||[Java](./code/LargestElement.java)|Array|
-|[Second Largest & Second Smallest Element](https://www.codingninjas.com/studio/problems/ninja-and-the-second-order-elements_6581960)|[Python](./code/second_largest_smallest.py)|||
+|[Second Largest & Second Smallest Element](https://www.codingninjas.com/studio/problems/ninja-and-the-second-order-elements_6581960)|[Python](./code/second_largest_smallest.py)||Array|
 
 
 #### Other Code Snippets
