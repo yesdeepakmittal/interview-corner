@@ -4,6 +4,8 @@
 |         Problems                 | Python|  Java |Tag|
 |----------------------------------|-------|-------|---|
 |[Largest Element in the Array](https://www.codingninjas.com/studio/problems/largest-element-in-the-array-largest-element-in-the-array_5026279)||[Java](./code/LargestElement.java)|Array|
+|[Second Largest & Second Smallest Element]|[Python](./code/second_largest_smallest.py)|||
+
 
 #### Other Code Snippets
 |         Problems                 | Python|  Java |Tag|
