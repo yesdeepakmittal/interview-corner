@@ -5,6 +5,10 @@
 |----------------------------------|-------|-------|---|
 |[Largest Element in the Array](https://www.codingninjas.com/studio/problems/largest-element-in-the-array-largest-element-in-the-array_5026279)||[Java](./code/LargestElement.java)|Array|
 |[Second Largest & Second Smallest Element](https://www.codingninjas.com/studio/problems/ninja-and-the-second-order-elements_6581960)|[Python](./code/second_largest_smallest.py)||Array|
+|[Check whether the Arrays is sorted](https://www.codingninjas.com/studio/problems/ninja-and-the-sorted-check_6581957)|[Python](./code/check_sorted_array.py)||Array|
+|[Remove Duplicates from Sorted Array](https://www.codingninjas.com/studio/problems/remove-duplicates-from-sorted-array_1102307)|[Python](./code/remove_duplicates_from_sorted_array.py)||Array|
+|[Rotating an Array by D places(Left)](https://practice.geeksforgeeks.org/problems/reversal-algorithm5340/1)|[Python](./code/rotate_element_by_k_places.py)||Array|
+|[Rotating an Array by D places(Right)](https://leetcode.com/problems/rotate-array/)||[Java](./code/rotate_element_by_k_places_right.java)|Array|
 
 
 #### Other Code Snippets
