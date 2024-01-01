@@ -1,9 +1,9 @@
 # Competitive Coding using Python & Java
 
-### New Starting Code Snippets
-|         Problems                 | Python|Tag|
-|----------------------------------|-------|---------|
-|[Largest Element in the Array](https://www.codingninjas.com/studio/problems/largest-element-in-the-array-largest-element-in-the-array_5026279)|[Python](./Leetcode/Leet0001.py)|Array|
+### Leetcode Code Snippets
+| No.  |       Problems                 | Python|Tag|
+|------|--------------------------------|-------|---|
+| 0001 |[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./Leetcode/Leet0001.py)|Array|
 
 
 #### Other Code Snippets
