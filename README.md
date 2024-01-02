@@ -4,6 +4,7 @@
 | No.  |       Problems                 | Python|Tag|
 |------|--------------------------------|-------|---|
 | 0001 |[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./Leetcode/Leet0001.py)|Array|
+| 0009 |[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Python](./Leetcode/Leet0009.py)|Recurion|
 
 
 #### Other Code Snippets
